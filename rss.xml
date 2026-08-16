@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily CyberSecurity Briefing</title>
+    <link>https://github.com/Hack-with-8k0b/CyberSecurity-Podcast</link>
+    <description>Automated daily cybersecurity briefing podcast covering the last 24 hours of publisher RSS.</description>
+    <language>en</language>
+    <itunes:author>Daily CyberSecurity Briefing</itunes:author>
+    <itunes:summary>Daily English cybersecurity briefing covering the last 24 hours of publisher RSS.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>Daily CyberSecurity Briefing</itunes:name>
+      <itunes:email>change-me@example.com</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://raw.githubusercontent.com/Hack-with-8k0b/CyberSecurity-Podcast/main/rss.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>

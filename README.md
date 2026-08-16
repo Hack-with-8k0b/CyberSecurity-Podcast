@@ -1,8 +1,9 @@
 # CyberSecurity-Podcast
 
-Public RSS host for the **Daily CyberSecurity Briefing** show. Spotify (and other apps) crawl this feed. Audio files stay on Google Drive; this repo only stores `rss.xml`.
+Public RSS host for **THE DAILY BREACH: Cybersecurity in 24 Hours**.
 
-**Feed URL (submit this to Spotify):**
-https://raw.githubusercontent.com/Hack-with-8k0b/CyberSecurity-Podcast/main/rss.xml
+- **Spotify show:** https://open.spotify.com/show/0346v9eYLJNuwGjVcpP0Yp
+- **Creators:** https://creators.spotify.com/pod/show/0346v9eYLJNuwGjVcpP0Yp/episodes
+- **Feed URL:** https://raw.githubusercontent.com/Hack-with-8k0b/CyberSecurity-Podcast/main/rss.xml
 
-n8n in the private Narada-Tools stack appends a new `<item>` here after each Drive upload. Do not put Narada-Tools source code in this repository.
+Audio files stay on Google Drive. This repo only stores `rss.xml` and `cover.jpg`. Do not put Narada-Tools source code here.

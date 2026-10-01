@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <lastBuildDate>Thu, 01 Oct 2026 00:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:17:51 GMT</lastBuildDate>
     <title>THE DAILY BREACH: Cybersecurity in 24 Hours</title>
     <link>https://open.spotify.com/show/0346v9eYLJNuwGjVcpP0Yp</link>
     <description>AI-generated daily cybersecurity news and analysis covering the last 24 hours.</description>
@@ -7103,6 +7103,104 @@ Sources:
    https://thehill.com/homenews/state-watch/6121860-mamdani-gets-federal-security-clearance
 21. Google’s new frontier AI model Gemini 4 Argon goes to cybersecurity defenders first - SiliconANGLE
    https://siliconangle.com/2026/09/30/googles-new-frontier-ai-model-gemini-4-argon-goes-to-cybersecurity-defenders-first</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+      <item>
+      <title>CyberSecurity News - 01-10-2026 (182 sources)</title>
+      <description>CyberSecurity News covering 182 sources from the last 24 hours.
+Publisher RSS: 63 / Google News: 120.
+Window: 2026-09-30T12:00:02.796254+00:00 to 2026-10-01T12:00:02.796254+00:00.
+Sources:
+1. Chase launches Data Security Center - ATM Marketplace
+   https://www.atmmarketplace.com/news/chase-launches-data-security-center
+2. OpenClaw Enterprise: what it means for one person or a small team
+   https://dev.to/luram/openclaw-enterprise-what-it-means-for-one-person-or-a-small-team-12
+3. How do you give local content in a WKWebView a real https origin? (iOS 17)
+   https://dev.to/goodbarber/how-do-you-give-local-content-in-a-wkwebview-a-real-https-origin-ios-17-2h64
+4. A Release Protocol Must Fail Closed Too
+   https://dev.to/qnbs/a-release-protocol-must-fail-closed-too-5h65
+5. Test the Artifact You Built, Not an Equivalent Rebuild
+   https://dev.to/qnbs/test-the-artifact-you-built-not-an-equivalent-rebuild-18f8
+6. With 88% of Orgs. Hit by AI Agent Security Incidents, Practical DevSecOps Launches Certification to Close the Skills Gap - EIN Presswire
+   https://www.einpresswire.com/article/946639634/with-88-of-orgs-hit-by-ai-agent-security-incidents-practical-devsecops-launches-certification-to-close-the-skills-gap
+7. Does That Online PDF Tool Upload Your File? A Network Test You Can Run Yourself
+   https://dev.to/edem_dogbe_556b626125bbf3/does-that-online-pdf-tool-upload-your-file-a-network-test-you-can-run-yourself-3iid
+8. How to secure a JAX-RS client application with OIDC (using pac4j)
+   https://dev.to/jleleu/how-to-secure-a-jax-rs-client-application-with-oidc-using-pac4j-3450
+9. When AI And Cybersecurity Intertwine For Good – And Bad - Family Wealth Report
+   https://www.familywealthreport.com/article.php/When-AI-And-Cybersecurity-Intertwine-For-Good-%E2%80%93-And-Bad-?id=208951
+10. Your Deny Policy Blocks Six Privesc Paths. There Are Nine.
+   https://dev.to/bala_paranj_059d338e44e7e/your-deny-policy-blocks-six-privesc-paths-there-are-nine-4km9
+11. TVL Trend Analysis &amp; Liquidity Risk Assessment: Gate
+   https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-gate-l9n
+12. CVE-2026-84469: CVE-2026-84469: Request Validation Bypass in Fastify via Loose Boolean Schema Evaluation
+   https://dev.to/cverports/cve-2026-84469-cve-2026-84469-request-validation-bypass-in-fastify-via-loose-boolean-schema-4md2
+13. The Adventures of Blink S6e5: Automation [NIST 800-53 CM(3)]
+   https://dev.to/linkbenjamin/the-adventures-of-blink-s6e5-automation-nist-800-53-cm3-1eah
+14. Made in Germany: The Country’s Cybersecurity Leaders to Watch - Security Boulevard
+   https://securityboulevard.com/2026/10/made-in-germany-the-countrys-cybersecurity-leaders-to-watch
+15. Grown From Within: The Netherlands’ Cybersecurity Leaders to Watch - Security Boulevard
+   https://securityboulevard.com/2026/10/grown-from-within-the-netherlands-cybersecurity-leaders-to-watch
+16. From the City to the Shires: The UK’s Cybersecurity Leaders to Watch - Security Boulevard
+   https://securityboulevard.com/2026/10/from-the-city-to-the-shires-the-uks-cybersecurity-leaders-to-watch
+17. Connected Cars Are a Surveillance Platform - Security Boulevard
+   https://securityboulevard.com/2026/10/connected-cars-are-a-surveillance-platform
+18. Navigant Credit Union talks about National Cybersecurity Awareness Month - WPRI.com
+   https://www.wpri.com/rhode-show/navigant-credit-union-talks-about-national-cybersecurity-awareness-month
+19. LXD Backup Import as an Attack Surface: CVE-2026-87799 and the btrfs Restore Path
+   https://dev.to/jeffreyciend/lxd-backup-import-as-an-attack-surface-cve-2026-87799-and-the-btrfs-restore-path-5dhp
+20. Google is launching Gemini 4 Argon, its most powerful AI model, for cybersecurity partners first - qz.com
+   https://qz.com/google-gemini-4-argon-ai-model-cybersecurity-100126
+. and 162 more sources (full list in GitHub sources/latest.json).</description>
+      <pubDate>Thu, 01 Oct 2026 12:17:51 GMT</pubDate>
+      <link>https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-01T12-00-00.m4a</link>
+      <enclosure url="https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-01T12-00-00.m4a" length="112197632" type="audio/mp4" />
+      <guid isPermaLink="false">briefing-2026-10-01T12-00-00.m4a</guid>
+      <itunes:summary>CyberSecurity News covering 182 sources from the last 24 hours.
+Publisher RSS: 63 / Google News: 120.
+Window: 2026-09-30T12:00:02.796254+00:00 to 2026-10-01T12:00:02.796254+00:00.
+Sources:
+1. Chase launches Data Security Center - ATM Marketplace
+   https://www.atmmarketplace.com/news/chase-launches-data-security-center
+2. OpenClaw Enterprise: what it means for one person or a small team
+   https://dev.to/luram/openclaw-enterprise-what-it-means-for-one-person-or-a-small-team-12
+3. How do you give local content in a WKWebView a real https origin? (iOS 17)
+   https://dev.to/goodbarber/how-do-you-give-local-content-in-a-wkwebview-a-real-https-origin-ios-17-2h64
+4. A Release Protocol Must Fail Closed Too
+   https://dev.to/qnbs/a-release-protocol-must-fail-closed-too-5h65
+5. Test the Artifact You Built, Not an Equivalent Rebuild
+   https://dev.to/qnbs/test-the-artifact-you-built-not-an-equivalent-rebuild-18f8
+6. With 88% of Orgs. Hit by AI Agent Security Incidents, Practical DevSecOps Launches Certification to Close the Skills Gap - EIN Presswire
+   https://www.einpresswire.com/article/946639634/with-88-of-orgs-hit-by-ai-agent-security-incidents-practical-devsecops-launches-certification-to-close-the-skills-gap
+7. Does That Online PDF Tool Upload Your File? A Network Test You Can Run Yourself
+   https://dev.to/edem_dogbe_556b626125bbf3/does-that-online-pdf-tool-upload-your-file-a-network-test-you-can-run-yourself-3iid
+8. How to secure a JAX-RS client application with OIDC (using pac4j)
+   https://dev.to/jleleu/how-to-secure-a-jax-rs-client-application-with-oidc-using-pac4j-3450
+9. When AI And Cybersecurity Intertwine For Good – And Bad - Family Wealth Report
+   https://www.familywealthreport.com/article.php/When-AI-And-Cybersecurity-Intertwine-For-Good-%E2%80%93-And-Bad-?id=208951
+10. Your Deny Policy Blocks Six Privesc Paths. There Are Nine.
+   https://dev.to/bala_paranj_059d338e44e7e/your-deny-policy-blocks-six-privesc-paths-there-are-nine-4km9
+11. TVL Trend Analysis &amp; Liquidity Risk Assessment: Gate
+   https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-gate-l9n
+12. CVE-2026-84469: CVE-2026-84469: Request Validation Bypass in Fastify via Loose Boolean Schema Evaluation
+   https://dev.to/cverports/cve-2026-84469-cve-2026-84469-request-validation-bypass-in-fastify-via-loose-boolean-schema-4md2
+13. The Adventures of Blink S6e5: Automation [NIST 800-53 CM(3)]
+   https://dev.to/linkbenjamin/the-adventures-of-blink-s6e5-automation-nist-800-53-cm3-1eah
+14. Made in Germany: The Country’s Cybersecurity Leaders to Watch - Security Boulevard
+   https://securityboulevard.com/2026/10/made-in-germany-the-countrys-cybersecurity-leaders-to-watch
+15. Grown From Within: The Netherlands’ Cybersecurity Leaders to Watch - Security Boulevard
+   https://securityboulevard.com/2026/10/grown-from-within-the-netherlands-cybersecurity-leaders-to-watch
+16. From the City to the Shires: The UK’s Cybersecurity Leaders to Watch - Security Boulevard
+   https://securityboulevard.com/2026/10/from-the-city-to-the-shires-the-uks-cybersecurity-leaders-to-watch
+17. Connected Cars Are a Surveillance Platform - Security Boulevard
+   https://securityboulevard.com/2026/10/connected-cars-are-a-surveillance-platform
+18. Navigant Credit Union talks about National Cybersecurity Awareness Month - WPRI.com
+   https://www.wpri.com/rhode-show/navigant-credit-union-talks-about-national-cybersecurity-awareness-month
+19. LXD Backup Import as an Attack Surface: CVE-2026-87799 and the btrfs Restore Path
+   https://dev.to/jeffreyciend/lxd-backup-import-as-an-attack-surface-cve-2026-87799-and-the-btrfs-restore-path-5dhp
+20. Google is launching Gemini 4 Argon, its most powerful AI model, for cybersecurity partners first - qz.com
+   https://qz.com/google-gemini-4-argon-ai-model-cybersecurity-100126
+. and 162 more sources (full list in GitHub sources/latest.json).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

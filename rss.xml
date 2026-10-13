@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <lastBuildDate>Mon, 12 Oct 2026 12:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:15:04 GMT</lastBuildDate>
     <title>THE DAILY BREACH: Cybersecurity in 24 Hours</title>
     <link>https://open.spotify.com/show/0346v9eYLJNuwGjVcpP0Yp</link>
     <description>AI-generated daily cybersecurity news and analysis covering the last 24 hours.</description>
@@ -9239,6 +9239,96 @@ Sources:
 20. Agents Are the New Insiders - Security Boulevard
    https://securityboulevard.com/2026/10/agents-are-the-new-insiders
 . and 101 more sources (full list in GitHub sources/latest.json).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+      <item>
+      <title>CyberSecurity News - 13-10-2026 (129 sources)</title>
+      <description>CyberSecurity News covering 129 sources from the last 24 hours.
+Publisher RSS: 38 / Google News: 93.
+Window: 2026-10-12T00:00:02.079333+00:00 to 2026-10-13T00:00:02.079333+00:00.
+Sources:
+1. Docker Hub's access token vulnerability: how signing let me verify my images
+   https://dev.to/tmatens/docker-hubs-access-token-vulnerability-how-signing-let-me-verify-my-images-58i3
+2. Webhook-Free OTP Login: Polling Status and SMS Verification Implications
+   https://dev.to/siegfriedfletcher5869/webhook-free-otp-login-polling-status-and-sms-verification-implications-11oh
+3. Two gaps in every hosted AI call: which model ran, and who saw the prompt. What I run to close both, and where each one still falls short.
+   https://dev.to/orwell1776/two-gaps-in-every-hosted-ai-call-which-model-ran-and-who-saw-the-prompt-what-i-run-to-close-aic
+4. CVE-2026-96361 Risk Ranking: Applying the CERT-BUND Damage and Probability Scores
+   https://dev.to/kozhevniko/cve-2026-96361-risk-ranking-applying-the-cert-bund-damage-and-probability-scores-3m6c
+5. GitOps Beyond Git Part 2: Adding AWS Signer and Notation in the supply chain (Is It Enough?)
+   https://dev.to/aws-builders/gitops-beyond-git-part-2-adding-aws-signer-in-the-supply-chain-is-it-enough-2609
+6. Inside a $31M Critical Tech Overhaul: Chinese Hardware, Russian Doctrines, and Zero Oversight
+   https://dev.to/drazenvisnjic/inside-a-31m-critical-tech-overhaul-chinese-hardware-russian-doctrines-and-zero-oversight-3ab7
+7. SMS OTP Delivery Risks 2026: Carrier Filtering, Shared Routes, Anti-Fraud Controls
+   https://dev.to/judsonrhodes1569/sms-otp-delivery-risks-2026-carrier-filtering-shared-routes-anti-fraud-controls-3d5k
+8. How I Analyze Blockchain Protocols at the Code and System Level
+   https://dev.to/_56d7718cea8fe00ec1610/how-i-analyze-blockchain-protocols-at-the-code-and-system-level-2i89
+9. AI Operator Security
+   https://dev.to/launchdayadvisors/ai-operator-security-4c5l
+10. Validate X post URLs before requesting video metadata in JavaScript
+   https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32
+11. Smart Contract Vulnerability Surface Analysis: Gauntlet
+   https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-gauntlet-m6e
+12. SRSG Miroslav Jenča, Remarks at the Security Council meeting on Colombia October 2026 - unmissions.org
+   https://colombia.unmissions.org/en/node/137000
+13. Brad Raffensperger defends election security in Georgia head of consequential midterms - NBC News
+   https://www.nbcnews.com/video/brad-raffensperger-chats-election-security-in-georgia-ahead-of-midterms-271468101603
+14. Audit a Workspace Read Set Before an Agent Indexes It
+   https://dev.to/jaryn_123/audit-a-workspace-read-set-before-an-agent-indexes-it-559i
+15. Ball security is an issue for the Giants after fumbling away their chances at Washington - Bozeman Daily Chronicle
+   https://www.bozemandailychronicle.com/wire/sports/ball-security-is-an-issue-for-the-giants-after-fumbling-away-their-chances-at-washington/article_c40ebeca-0284-5072-810f-f234081130ef.html
+16. Police: Security camera along Spartanburg Rail Trail vandalized over the weekend - FOX Carolina News
+   https://www.foxcarolina.com/video/2026/10/12/police-security-camera-along-spartanburg-rail-trail-vandalized-over-weekend
+17. Rep. Rick Larsen tours second Homeland Security office in Ferndale - Cascadia Daily News
+   https://www.cascadiadaily.com/2026/oct/12/rep-rick-larsen-tours-second-homeland-security-office-in-ferndale
+18. Murray State professor discusses cybersecurity, simple steps toward staying safe - KFVS12
+   https://www.kfvs12.com/2026/10/12/murray-state-professor-discusses-cybersecurity-simple-steps-toward-staying-safe
+. and 111 more sources (full list in GitHub sources/latest.json).</description>
+      <pubDate>Tue, 13 Oct 2026 00:15:04 GMT</pubDate>
+      <link>https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-13T00-00-00.m4a</link>
+      <enclosure url="https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-13T00-00-00.m4a" length="93113549" type="audio/mp4" />
+      <guid isPermaLink="false">briefing-2026-10-13T00-00-00.m4a</guid>
+      <itunes:summary>CyberSecurity News covering 129 sources from the last 24 hours.
+Publisher RSS: 38 / Google News: 93.
+Window: 2026-10-12T00:00:02.079333+00:00 to 2026-10-13T00:00:02.079333+00:00.
+Sources:
+1. Docker Hub's access token vulnerability: how signing let me verify my images
+   https://dev.to/tmatens/docker-hubs-access-token-vulnerability-how-signing-let-me-verify-my-images-58i3
+2. Webhook-Free OTP Login: Polling Status and SMS Verification Implications
+   https://dev.to/siegfriedfletcher5869/webhook-free-otp-login-polling-status-and-sms-verification-implications-11oh
+3. Two gaps in every hosted AI call: which model ran, and who saw the prompt. What I run to close both, and where each one still falls short.
+   https://dev.to/orwell1776/two-gaps-in-every-hosted-ai-call-which-model-ran-and-who-saw-the-prompt-what-i-run-to-close-aic
+4. CVE-2026-96361 Risk Ranking: Applying the CERT-BUND Damage and Probability Scores
+   https://dev.to/kozhevniko/cve-2026-96361-risk-ranking-applying-the-cert-bund-damage-and-probability-scores-3m6c
+5. GitOps Beyond Git Part 2: Adding AWS Signer and Notation in the supply chain (Is It Enough?)
+   https://dev.to/aws-builders/gitops-beyond-git-part-2-adding-aws-signer-in-the-supply-chain-is-it-enough-2609
+6. Inside a $31M Critical Tech Overhaul: Chinese Hardware, Russian Doctrines, and Zero Oversight
+   https://dev.to/drazenvisnjic/inside-a-31m-critical-tech-overhaul-chinese-hardware-russian-doctrines-and-zero-oversight-3ab7
+7. SMS OTP Delivery Risks 2026: Carrier Filtering, Shared Routes, Anti-Fraud Controls
+   https://dev.to/judsonrhodes1569/sms-otp-delivery-risks-2026-carrier-filtering-shared-routes-anti-fraud-controls-3d5k
+8. How I Analyze Blockchain Protocols at the Code and System Level
+   https://dev.to/_56d7718cea8fe00ec1610/how-i-analyze-blockchain-protocols-at-the-code-and-system-level-2i89
+9. AI Operator Security
+   https://dev.to/launchdayadvisors/ai-operator-security-4c5l
+10. Validate X post URLs before requesting video metadata in JavaScript
+   https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32
+11. Smart Contract Vulnerability Surface Analysis: Gauntlet
+   https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-gauntlet-m6e
+12. SRSG Miroslav Jenča, Remarks at the Security Council meeting on Colombia October 2026 - unmissions.org
+   https://colombia.unmissions.org/en/node/137000
+13. Brad Raffensperger defends election security in Georgia head of consequential midterms - NBC News
+   https://www.nbcnews.com/video/brad-raffensperger-chats-election-security-in-georgia-ahead-of-midterms-271468101603
+14. Audit a Workspace Read Set Before an Agent Indexes It
+   https://dev.to/jaryn_123/audit-a-workspace-read-set-before-an-agent-indexes-it-559i
+15. Ball security is an issue for the Giants after fumbling away their chances at Washington - Bozeman Daily Chronicle
+   https://www.bozemandailychronicle.com/wire/sports/ball-security-is-an-issue-for-the-giants-after-fumbling-away-their-chances-at-washington/article_c40ebeca-0284-5072-810f-f234081130ef.html
+16. Police: Security camera along Spartanburg Rail Trail vandalized over the weekend - FOX Carolina News
+   https://www.foxcarolina.com/video/2026/10/12/police-security-camera-along-spartanburg-rail-trail-vandalized-over-weekend
+17. Rep. Rick Larsen tours second Homeland Security office in Ferndale - Cascadia Daily News
+   https://www.cascadiadaily.com/2026/oct/12/rep-rick-larsen-tours-second-homeland-security-office-in-ferndale
+18. Murray State professor discusses cybersecurity, simple steps toward staying safe - KFVS12
+   https://www.kfvs12.com/2026/10/12/murray-state-professor-discusses-cybersecurity-simple-steps-toward-staying-safe
+. and 111 more sources (full list in GitHub sources/latest.json).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

@@ -1,52 +1,52 @@
 {
   "workflow": "AI - CyberSecurity Podcast - HWB",
-  "generatedAt": "2026-10-20T00:20:22.451Z",
-  "episodeTitle": "CyberSecurity News - 20-10-2026 (150 sources)",
-  "stamp": "2026-10-20T00-00-00",
-  "windowStart": "2026-10-19T00:00:13.354002+00:00",
-  "windowEnd": "2026-10-20T00:00:13.354002+00:00",
-  "articleCount": 150,
+  "generatedAt": "2026-10-20T12:21:10.259Z",
+  "episodeTitle": "CyberSecurity News - 20-10-2026 (161 sources)",
+  "stamp": "2026-10-20T12-00-00",
+  "windowStart": "2026-10-19T12:00:03.238889+00:00",
+  "windowEnd": "2026-10-20T12:00:03.238889+00:00",
+  "articleCount": 161,
   "rssArticleCount": 52,
-  "gnewsArticleCount": 99,
-  "publicAudioUrl": "https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-20T00-00-00.m4a",
-  "enclosureUrl": "https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-20T00-00-00.m4a",
+  "gnewsArticleCount": 111,
+  "publicAudioUrl": "https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-20T12-00-00.m4a",
+  "enclosureUrl": "https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-20T12-00-00.m4a",
   "sourcesCsv": "config/cybersecurity-publisher-rss.csv",
   "articles": [
     {
       "index": 1,
-      "title": "Maximus to buy Agile Defense for $660M in national-security push - Dealroom",
-      "url": "https://app.dealroom.co/news/note/maximus-to-buy-agile-defense-for-660m-in-national-security-push",
-      "published": "Mon, 19 Oct 2026 23:56:43 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
+      "title": "Introducing a new AI chapter in the NCSC research problem book",
+      "url": "https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book",
+      "published": "2026-10-20T12:00:00+00:00",
+      "feed": "UK NCSC",
+      "feedUrl": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
     },
     {
       "index": 2,
-      "title": "Radware (RDWR) Could Be 46% Above Fair Value Following Its AI Security Launch - Simply Wall Street",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-rdwr/radware/news/radware-rdwr-could-be-46-above-fair-value-following-its-ai-s",
-      "published": "Mon, 19 Oct 2026 23:51:15 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
+      "title": "SPF Records: Why Your 10 DNS Lookups Break (And The Fix)",
+      "url": "https://dev.to/rabbitholeinphp/spf-records-why-your-10-dns-lookups-break-and-the-fix-3bo1",
+      "published": "2026-10-20T12:00:00+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
     },
     {
       "index": 3,
-      "title": "Middle East security alert: U.S. warns citizens as Iran-backed Houthi violence ramps up - FOX 10 Phoenix",
-      "url": "https://www.fox10phoenix.com/video/fmc-6b528403cto3rgd0",
-      "published": "Mon, 19 Oct 2026 23:47:32 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
+      "title": "From a Real-World Problem to a Software Project: The Idea Behind Haseen.",
+      "url": "https://dev.to/abumotlaq/from-a-real-world-problem-to-a-software-project-the-idea-behind-haseen-i63",
+      "published": "2026-10-20T11:48:55+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
     },
     {
       "index": 4,
-      "title": "Node.js Security Controls for Realtime State Convergence in Livestream Chat",
-      "url": "https://dev.to/arthurfinley2291/nodejs-security-controls-for-realtime-state-convergence-in-livestream-chat-31hk",
-      "published": "2026-10-19T23:41:12+00:00",
+      "title": "TVL Trend Analysis & Liquidity Risk Assessment: Steakhouse Financial",
+      "url": "https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-steakhouse-financial-171l",
+      "published": "2026-10-20T11:47:43+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -54,9 +54,9 @@
     },
     {
       "index": 5,
-      "title": "Cybersecurity unicorn Transmit Security names new CEO - The Business Journals",
-      "url": "https://www.bizjournals.com/boston/news/2026/10/19/transmit-security-names-new-ceo.html",
-      "published": "Mon, 19 Oct 2026 23:41:00 GMT",
+      "title": "Microsoft admits 'frontier models can't be trusted', unveils new security tools to treat AI agents as insider threats - TechRadar",
+      "url": "https://www.techradar.com/pro/security/microsoft-admits-frontier-models-cant-be-trusted-unveils-new-security-tools-to-treat-ai-agents-as-insider-threats",
+      "published": "Tue, 20 Oct 2026 11:44:39 GMT",
       "feed": "cybersecurity",
       "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
       "feedLabel": "Cybersecurity / Information Security",
@@ -64,9 +64,9 @@
     },
     {
       "index": 6,
-      "title": "Governance Attack Surface Review: USDD",
-      "url": "https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-usdd-6a6",
-      "published": "2026-10-19T23:35:59+00:00",
+      "title": "CVE-2026-70024: A Checklist for Security Leadership",
+      "url": "https://dev.to/onaeiuspkz/cve-2026-70024-a-checklist-for-security-leadership-70i",
+      "published": "2026-10-20T11:40:06+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -74,9 +74,9 @@
     },
     {
       "index": 7,
-      "title": "GhostAction now scans your git history for secrets. I deleted 30 keys and recovered all 30.",
-      "url": "https://dev.to/frankchu/ghostaction-now-scans-your-git-history-for-secrets-i-deleted-30-keys-and-recovered-all-30-60o",
-      "published": "2026-10-19T23:34:53+00:00",
+      "title": "Can Someone Steal Your Crypto Just by Knowing Your Wallet Address?",
+      "url": "https://dev.to/walletverse/can-someone-steal-your-crypto-just-by-knowing-your-wallet-address-5494",
+      "published": "2026-10-20T11:40:05+00:00",
       "feed": "Dev.to Security",
       "feedUrl": "https://dev.to/feed/tag/security",
       "feedLabel": null,
@@ -84,6 +84,906 @@
     },
     {
       "index": 8,
+      "title": "A playable preview is not a recovered original",
+      "url": "https://dev.to/aurelio_avila/a-playable-preview-is-not-a-recovered-original-1jg4",
+      "published": "2026-10-20T11:39:52+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 9,
+      "title": "Tax Pros: After the Oct. 15 Deadline, Time to Update Your Security Plan To Include AI - PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/tax-pros-after-the-oct-15-deadline-time-to-update-your-security-plan-to-include-ai-302913957.html",
+      "published": "Tue, 20 Oct 2026 11:38:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 10,
+      "title": "The 5 AWS Security Mistakes I Keep Finding in Small Business Accounts",
+      "url": "https://dev.to/abrar_aslam_69082442c8033/the-5-aws-security-mistakes-i-keep-finding-in-small-business-accounts-1k3m",
+      "published": "2026-10-20T11:35:07+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 11,
+      "title": "Why We Rebuilt Popular Web Utilities to Run 100% Client-Side",
+      "url": "https://dev.to/devomnitools/why-we-rebuilt-popular-web-utilities-to-run-100-client-side-gpm",
+      "published": "2026-10-20T11:34:45+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 12,
+      "title": "Securing your pnpm supply chain",
+      "url": "https://dev.to/pradel/securing-your-pnpm-supply-chain-2l2g",
+      "published": "2026-10-20T11:32:22+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 13,
+      "title": "HTTPS Redirect Loops: Find the Conflicting Rule Before Changing WordPress",
+      "url": "https://dev.to/alifhost/https-redirect-loops-find-the-conflicting-rule-before-changing-wordpress-46hc",
+      "published": "2026-10-20T11:28:00+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 14,
+      "title": "We assume your AI agent will be prompt-injected. Here's the architecture that makes that survivable.",
+      "url": "https://dev.to/waqarimtiaz/we-assume-your-ai-agent-will-be-prompt-injected-heres-the-architecture-that-makes-that-survivable-4g0",
+      "published": "2026-10-20T11:13:47+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 15,
+      "title": "How Do You Use Humastogel Safely?",
+      "url": "https://dev.to/cbaitcenter123/how-do-you-use-humastogel-safely-2m34",
+      "published": "2026-10-20T11:11:03+00:00",
+      "feed": "Dev.to Security",
+      "feedUrl": "https://dev.to/feed/tag/security",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 16,
+      "title": "Teradata's new security measures aim to harness AI agents - TechTarget",
+      "url": "https://www.techtarget.com/data-technologies/news/366652361/Teradatas-new-security-measures-aim-to-harness-AI-agents",
+      "published": "Tue, 20 Oct 2026 11:07:26 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 17,
+      "title": "Possible new Cellebrite iPhone Radio Zero-Day",
+      "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
+      "published": "2026-10-20T11:03:13+00:00",
+      "feed": "Schneier on Security",
+      "feedUrl": "https://www.schneier.com/feed/atom/",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 18,
+      "title": "Security Council, 10249th Meeting (AM) Central African Republic/MINUSCA - UN Meetings Coverage and Press Releases",
+      "url": "https://press.un.org/en/blog/sc16484",
+      "published": "Tue, 20 Oct 2026 11:02:03 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 19,
+      "title": "InterNex Capital Closes and Funds $8MM Line of Credit for Cybersecurity Provider - ABF Journal",
+      "url": "https://www.abfjournal.com/internex-capital-closes-and-funds-8mm-line-of-credit-for-cybersecurity-provider",
+      "published": "Tue, 20 Oct 2026 11:01:17 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 20,
+      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+      "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production",
+      "published": "2026-10-20T11:00:16+00:00",
+      "feed": "Ars Technica",
+      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 21,
+      "title": "SkillBit Launches Learning Paths to Build Job-Ready Cybersecurity Teams - Business Wire",
+      "url": "https://www.businesswire.com/news/home/20261020226362/en/SkillBit-Launches-Learning-Paths-to-Build-Job-Ready-Cybersecurity-Teams",
+      "published": "Tue, 20 Oct 2026 11:00:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 22,
+      "title": "5 Best Threat Intelligence Platforms for Security Teams - https://tech-insider.org/",
+      "url": "https://tech-insider.org/best-threat-intelligence-platforms-security-teams",
+      "published": "Tue, 20 Oct 2026 10:54:31 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 23,
+      "title": "Suspect in FlyDubai incident was previously identified as security risk: Officials - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.com/US/suspect-flydubai-incident-previously-identified-security-risk-officials/story?id=136960488",
+      "published": "Tue, 20 Oct 2026 10:54:28 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 24,
+      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack",
+      "published": "Tue, 20 Oct 2026 10:45:43 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 25,
+      "title": "Enlighten IT Consulting Wins $332.8M Air Force Cybersecurity Contract - Clearance Jobs",
+      "url": "https://news.clearancejobs.com/2026/10/20/enlighten-it-consulting-wins-332-8m-air-force-cybersecurity-contract",
+      "published": "Tue, 20 Oct 2026 10:34:46 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 26,
+      "title": "View / For investors, the Iran war redefined energy security - Semafor",
+      "url": "https://www.semafor.com/article/10/20/2026/for-investors-the-iran-war-redefined-energy-security",
+      "published": "Tue, 20 Oct 2026 10:32:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 27,
+      "title": "Agentic AI is moving fast - and cybersecurity must innovate to keep pace - Diginomica",
+      "url": "https://diginomica.com/agentic-ai-moving-fast-and-cybersecurity-must-innovate-keep-pace",
+      "published": "Tue, 20 Oct 2026 10:30:58 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 28,
+      "title": "Wallkill Republicans raise security concerns over Meyer’s Town Hall access - Mid Hudson News",
+      "url": "https://midhudsonnews.com/2026/10/20/wallkill-republicans-raise-security-concerns-over-meyers-town-hall-access",
+      "published": "Tue, 20 Oct 2026 10:27:58 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 29,
+      "title": "HKU and Global Cybersecurity Alliance Launch Joint Centre for AI and Cybersecurity Research - The University of Hong Kong (HKU)",
+      "url": "https://lead.hku.hk/en/news/2026/10/hku-and-global-cybersecurity-alliance",
+      "published": "Tue, 20 Oct 2026 10:25:00 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 30,
+      "title": "Afinum X makes first Swiss bet with Ergon cybersecurity deal - Dealroom",
+      "url": "https://app.dealroom.co/news/note/afinum-x-makes-first-swiss-bet-with-ergon-cybersecurity-deal",
+      "published": "Tue, 20 Oct 2026 10:18:50 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 31,
+      "title": "US bans DeepSeek from federal civilian networks over security risks - Yeni Şafak English",
+      "url": "https://en.yenisafak.com/world/us-bans-deepseek-from-federal-civilian-networks-over-security-risks-3724641",
+      "published": "Tue, 20 Oct 2026 10:11:58 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 32,
+      "title": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries - SECURITY.COM",
+      "url": "https://www.security.com/blog-post/swallowtail-russia-nato-targets",
+      "published": "Tue, 20 Oct 2026 10:10:53 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 33,
+      "title": "GovWare 2026: AI security and cyber threats - HardwareZone Singapore",
+      "url": "https://www.hardwarezone.com.sg/lifestyle/ai/things-note-govware-2026",
+      "published": "Tue, 20 Oct 2026 10:07:30 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 34,
+      "title": "US Army is developing AI agents that could strike enemy networks and vanish without a trace - Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/10/20/us-army-ai-agents-echotribble",
+      "published": "Tue, 20 Oct 2026 10:03:39 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 35,
+      "title": "AI could make cybersecurity a never-ending process - Fast Company",
+      "url": "https://www.fastcompany.com/91626237/ai-could-make-cybersecurity-a-never-ending-process",
+      "published": "Tue, 20 Oct 2026 10:03:22 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 36,
+      "title": "NFL in Paris: League eyes big debut as Steelers-Saints game comes amid security concerns - AP News",
+      "url": "https://apnews.com/article/nfl-paris-steelers-saints-01ac6bfe6fde6f198e15356a8b95680c",
+      "published": "Tue, 20 Oct 2026 10:01:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 37,
+      "title": "I Tried Amazing Security Tech for Renters From a Company You’ve Never Heard Of - CNET",
+      "url": "https://www.cnet.com/home/security/baseus-primesentinel-w1-i-tried-amazing-security-tech-for-renters-from-a-company-youve-never-heard-of",
+      "published": "Tue, 20 Oct 2026 10:00:20 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 38,
+      "title": "NIST, NSA and CISA Issue Guidance To Prepare For AI Agents Acting Beyond Human Control - LinkedIn",
+      "url": "https://www.linkedin.com/pulse/nist-nsa-cisa-issue-guidance-prepare-ai-agents-xjdde",
+      "published": "Tue, 20 Oct 2026 10:00:11 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 39,
+      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
+      "url": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
+      "published": "2026-10-20T10:00:00+00:00",
+      "feed": "The Record",
+      "feedUrl": "https://therecord.media/feed",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 40,
+      "title": "Apple @ Work Podcast: A look at recent Apple security updates - 9to5Mac",
+      "url": "https://9to5mac.com/2026/10/20/a-look-at-recent-apple-security-updates",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 41,
+      "title": "Microsoft wants to limit AI agents’ permissions when they stray from the job - Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/10/20/microsofts-ai-agents-threats-guardian-agents",
+      "published": "Tue, 20 Oct 2026 09:55:04 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 42,
+      "title": "Sabre Cybersecurity Warns Ohio Businesses That Ransomware Attacks Strike When Nobody Is Watching - Carroll County Mirror-Democrat",
+      "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_573cfba7-7ebd-5624-aad2-4c1d35debf30.html",
+      "published": "Tue, 20 Oct 2026 09:51:17 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 43,
+      "title": "Aglaia Balta, Permanent Representative of Greece to the United Nations — Statement at the UN Security Council on the Situation in Colombia - The America Times",
+      "url": "https://www.america-times.com/aglaia-balta-permanent-representative-of-greece-to-the-united-nations-statement-at-the-un-security-council-on-the-situation-in-colombia",
+      "published": "Tue, 20 Oct 2026 09:45:19 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 44,
+      "title": "Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient’s death",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death",
+      "published": "2026-10-20T09:41:49+00:00",
+      "feed": "Graham Cluley",
+      "feedUrl": "https://grahamcluley.com/feed/",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 45,
+      "title": "Jeffrey Bartos, U.S. Representative for United Nations Management and Reform — Statement at the UN Security Council on the Situation in Colombia - The America Times",
+      "url": "https://www.america-times.com/jeffrey-bartos-u-s-representative-for-united-nations-management-and-reform-statement-at-the-un-security-council-on-the-situation-in-colombia",
+      "published": "Tue, 20 Oct 2026 09:40:03 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 46,
+      "title": "New Jersey attorney general announces voter protections, election security measures ahead of November election - WRNJ Radio",
+      "url": "https://wrnjradio.com/new-jersey-attorney-general-announces-voter-protections-election-security-measures-ahead-of-november-election",
+      "published": "Tue, 20 Oct 2026 09:39:44 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 47,
+      "title": "Vassily Nebenzia, Permanent Representative of the Russian Federation to the United Nations — Statement at the UN Security Council on the Situation in Colombia - The America Times",
+      "url": "https://www.america-times.com/vassily-nebenzia-permanent-representative-of-the-russian-federation-to-the-united-nations-statement-at-the-un-security-council-on-the-situation-in-colombia",
+      "published": "Tue, 20 Oct 2026 09:38:26 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 48,
+      "title": "Sanita Pavļuta-Deslandes, Permanent Representative of Latvia to the United Nations — Statement at the UN Security Council on the Situation in Colombia - The America Times",
+      "url": "https://www.america-times.com/sanita-pavluta-deslandes-permanent-representative-of-latvia-to-the-united-nations-statement-at-the-un-security-council-on-the-situation-in-colombia",
+      "published": "Tue, 20 Oct 2026 09:30:15 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 49,
+      "title": "Michigan’s Mike Rogers Got Big Payout Before Controversial Cybersecurity Firm Went Bankrupt - The American Prospect",
+      "url": "https://prospect.org/2026/10/20/michigan-mike-rogers-cybersecurity-firm-ironnet-bankrupt-keith-alexander-andre-pienaar",
+      "published": "Tue, 20 Oct 2026 09:30:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 50,
+      "title": "Foreign investment regulation in 2026: navigating economic security and deal certainty - Freshfields",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/transactions/foreign-investment-regulation-in-2026-navigating-economic-security-and-deal-cert-102o5e3",
+      "published": "Tue, 20 Oct 2026 09:28:19 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 51,
+      "title": "Netanyahu Adviser’s Exposed Code Raises Alarm Over Political Cybersecurity - The Media Line",
+      "url": "https://themedialine.org/mideast-daily-news/netanyahu-advisers-exposed-code-raises-alarm-over-political-cybersecurity",
+      "published": "Tue, 20 Oct 2026 09:26:56 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 52,
+      "title": "‘We certainly damaged trust’: Administrators announce new protocol for installing residential security cameras at DSG meeting - The Dartmouth",
+      "url": "https://www.thedartmouth.com/article/2026/10/dua-we-certainly-damaged-trust-administrators-announce-new-protocol-for-installing-residential-security-cameras-at-dsg-meeting",
+      "published": "Tue, 20 Oct 2026 09:18:10 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 53,
+      "title": "Maximus to Acquire Agile Defense, Advancing Defense and National Security Growth Strategy - Business Wire",
+      "url": "https://www.businesswire.com/news/home/20261019016904/en/Maximus-to-Acquire-Agile-Defense-Advancing-Defense-and-National-Security-Growth-Strategy",
+      "published": "Tue, 20 Oct 2026 09:01:01 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 54,
+      "title": "Stellar Cyber Security Operations Solutions Now Available on Oracle Marketplace - Business Wire",
+      "url": "https://www.businesswire.com/news/home/20261020047218/en/Stellar-Cyber-Security-Operations-Solutions-Now-Available-on-Oracle-Marketplace",
+      "published": "Tue, 20 Oct 2026 09:00:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 55,
+      "title": "US Bans DeepSeek AI From Federal Civilian Agencies Over Security Concerns - Arise News",
+      "url": "https://www.arise.tv/us-bans-deepseek-ai-from-federal-civilian-agencies-over-security-concerns",
+      "published": "Tue, 20 Oct 2026 08:33:53 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 56,
+      "title": "Cybersecurity outsourcing and AI need stronger risk oversight - Okoone",
+      "url": "https://www.okoone.com/spark/leadership-management/cybersecurity-outsourcing-and-ai-need-stronger-risk-oversight",
+      "published": "Tue, 20 Oct 2026 08:27:38 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 57,
+      "title": "Icetana takes its AI security into robotics - NT News",
+      "url": "https://www.ntnews.com.au/business/stockhead/icetana-plugs-ai-security-into-softbanks-robot-rollout/news-story/371fe060f19d6c8343b0608bcba21f00",
+      "published": "Tue, 20 Oct 2026 08:21:08 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 58,
+      "title": "Cybersecurity Awareness Month Brings a Free Large-Print Book for a Safer Online World - The Des Moines Register",
+      "url": "https://www.desmoinesregister.com/press-release/story/141547/cybersecurity-awareness-month-brings-a-free-large-print-book-for-a-safer-online-world",
+      "published": "Tue, 20 Oct 2026 08:15:05 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 59,
+      "title": "US bans Chinese AI firm DeepSeek from federal civilian networks over security risks - Anadolu Ajansı",
+      "url": "https://www.aa.com.tr/en/americas/us-bans-chinese-ai-firm-deepseek-from-federal-civilian-networks-over-security-risks/4094238",
+      "published": "Tue, 20 Oct 2026 08:14:35 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 60,
+      "title": "Biden-era homeland security secretary defends deportation on YPU floor - Yale Daily News",
+      "url": "https://yaledailynews.com/articles/biden-era-homeland-security-secretary-defends-deportation-on-ypu-floor",
+      "published": "Tue, 20 Oct 2026 08:07:06 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 61,
+      "title": "Why the Office Is an Increasing Cybersecurity Risk - UC Today",
+      "url": "https://uctoday.com/why-the-office-is-an-increasing-cybersecurity-risk",
+      "published": "Tue, 20 Oct 2026 08:01:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 62,
+      "title": "How to Protect Your SME from AI-Driven Cyberattacks - pandasecurity.com",
+      "url": "https://www.pandasecurity.com/en/mediacenter/protect-sme-ai-cyberattacks",
+      "published": "Tue, 20 Oct 2026 07:45:59 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 63,
+      "title": "GitHub Brings AI Security Scanning to Pull Requests CodeQL Can’t Cover - DevOps.com",
+      "url": "https://devops.com/github-brings-ai-security-scanning-to-pull-requests-codeql-cant-cover",
+      "published": "Tue, 20 Oct 2026 07:40:01 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 64,
+      "title": "Microsoft Unveils AI Security Tools as Nadella Warns Against Trusting Autonomous Agents - Sri Lanka Guardian",
+      "url": "https://slguardian.org/microsoft-unveils-ai-security-tools-as-nadella-warns-against-trusting-autonomous-agents",
+      "published": "Tue, 20 Oct 2026 07:21:23 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 65,
+      "title": "One Hacker Uses AI Agents to Breach Over 100 Company Websites for Just $5,000 - CyberSecurityNews",
+      "url": "https://cybersecuritynews.com/chinese-hacker-use-ai-agent-to-hack",
+      "published": "Tue, 20 Oct 2026 07:20:15 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 66,
+      "title": "Netherlands sees the number of cybersecurity firms skyrocket amid rising threats - Cybernews",
+      "url": "https://cybernews.com/security/netherlands-cybersecurity-firms-skyrocket",
+      "published": "Tue, 20 Oct 2026 06:49:59 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 67,
+      "title": "U. Senate discusses AI, security cameras with RUPD, EDGE plan with Tate, passes academic freedom resolution - The Daily Targum",
+      "url": "https://www.dailytargum.com/article/u-senate-speaks-with-tate-cop-passes-resolution-in-support-of-academic-freedom-20261020",
+      "published": "Tue, 20 Oct 2026 06:33:18 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 68,
+      "title": "AI Is Changing Security: Here’s How to Keep Up - ESET",
+      "url": "https://www.eset.com/za/about/newsroom/press-releases-za/blog/ai-is-changing-security-heres-how-to-keep-up-1",
+      "published": "Tue, 20 Oct 2026 06:19:47 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 69,
+      "title": "Security firm finds China-linked AI agent behind Japan cyberattacks - Japan Wire by Kyodo News",
+      "url": "https://english.kyodonews.net/articles/-/88761",
+      "published": "Tue, 20 Oct 2026 06:06:42 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 70,
+      "title": "Updated security protocols and safety enhancements in Fresno’s Tower District - YourCentralValley.com",
+      "url": "https://www.yourcentralvalley.com/news/local-news/fresno-tower-district-security-plan",
+      "published": "Tue, 20 Oct 2026 06:05:07 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 71,
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos",
+      "published": "2026-10-20T05:59:56+00:00",
+      "feed": "Ars Technica",
+      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 72,
+      "title": "How Can I Start A Career In AI Security With Proper Training? - AICERTs",
+      "url": "https://www.aicerts.ai/blogs/how-can-i-start-a-career-in-ai-security-with-proper-training",
+      "published": "Tue, 20 Oct 2026 05:57:01 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 73,
+      "title": "The Korea Internet & Security Agency (KISA) will renew its cybersecurity business agreement with.. - 매일경제",
+      "url": "https://www.mk.co.kr/en/it/12180534",
+      "published": "Tue, 20 Oct 2026 05:33:22 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 74,
+      "title": "Microsoft says ‘frontier models cannot be trusted’, introduces AI security controls - Storyboard18",
+      "url": "https://www.storyboard18.com/digital/microsoft-says-frontier-models-cannot-be-trusted-introduces-ai-security-controls-112950.htm",
+      "published": "Tue, 20 Oct 2026 05:26:02 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 75,
+      "title": "Security 101 Company EOS Opens Expanded Michigan Facility - Security Info Watch",
+      "url": "https://www.securityinfowatch.com/integrators/news/55412999/security-101-security-101-company-eos-opens-expanded-michigan-facility",
+      "published": "Tue, 20 Oct 2026 05:25:40 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 76,
+      "title": "Without Federal Help, State Officials Return to DIY Election Security - The Dispatch",
+      "url": "https://thedispatch.com/article/election-security-cisa-midterms-states",
+      "published": "Tue, 20 Oct 2026 05:05:40 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 77,
+      "title": "Electricity and renewables security review - IEA - International Energy Agency",
+      "url": "https://www.iea.org/reports/asean-energy-security-review/electricity-and-renewables-security-review",
+      "published": "Tue, 20 Oct 2026 04:52:16 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 78,
+      "title": "'Hesitant' Valkyries lament their poor ball security in Game 2 loss to Dream - ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50224865/valkyries-lament-their-poor-ball-security-loss-dream",
+      "published": "Tue, 20 Oct 2026 04:49:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 79,
+      "title": "U.S. Cybersecurity Job Market Hits 4-Year Low—But Demand for AI Security Talent is Exploding - Israel Defense",
+      "url": "https://www.israeldefense.co.il/en/node/71936",
+      "published": "Tue, 20 Oct 2026 04:12:00 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 80,
+      "title": "Cohere To Acquire AISLE And Launch Cohere Cyber For Sovereign AI Security - Pulse 2.0",
+      "url": "https://pulse2.com/cohere-to-acquire-aisle-and-launch-cohere-cyber-for-sovereign-ai-security",
+      "published": "Tue, 20 Oct 2026 04:06:25 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 81,
+      "title": "Cybersecurity jobs available right now: October 20, 2026 - Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/10/20/cybersecurity-jobs-available-right-now-october-20-2026",
+      "published": "Tue, 20 Oct 2026 04:00:24 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 82,
+      "title": "Pharmacy Cybersecurity Strategies for PHI Protection - Specialty Pharmacy Continuum",
+      "url": "https://www.specialtypharmacycontinuum.com/Pharmacy-Technology-Report/Article/10-26/Pharmacy-Cybersecurity-Strategies-for-PHI-Protection/81683",
+      "published": "Tue, 20 Oct 2026 04:00:01 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 83,
+      "title": "Nearly a year after Dec. 13 shooting, Brown shifts security posture - Brown Daily Herald",
+      "url": "https://www.browndailyherald.com/article/nearly-a-year-after-dec-13-shooting-brown-shifts-security-posture-20261020",
+      "published": "Tue, 20 Oct 2026 03:22:04 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 84,
+      "title": "Enhanced security measures set for Memphis City Council meeting - Action News 5",
+      "url": "https://www.actionnews5.com/2026/10/20/enhanced-security-measures-set-memphis-city-council-meeting",
+      "published": "Tue, 20 Oct 2026 03:17:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 85,
+      "title": "Day Two of Cybersecurity Career Week: Exploring Cyber Careers - National Institute of Standards and Technology (.gov)",
+      "url": "https://www.nist.gov/news-events/news/2026/10/day-two-cybersecurity-career-week-exploring-cyber-careers",
+      "published": "Tue, 20 Oct 2026 03:03:35 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 86,
+      "title": "SSenStone Joins Physical AI Security Project - THE ELEC, Korea Electronics Industry Media",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=14690",
+      "published": "Tue, 20 Oct 2026 02:28:05 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 87,
+      "title": "Reinventing Endpoint Security with Cortex XDR One - Palo Alto Networks",
+      "url": "https://www.paloaltonetworks.com/blog/2026/10/reinventing-endpoint-security-with-cortex-xdr-one",
+      "published": "Tue, 20 Oct 2026 02:07:17 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 88,
+      "title": "DeepSeek AI Faces Ban From Federal Networks Over Data Security Concerns (Oct 19, 2026) - VitalLaw.com",
+      "url": "https://www.vitallaw.com/news/deepseek-ai-faces-ban-from-federal-networks-over-data-security-concerns/cspd01397740af369a471fbe64e30815f69c44",
+      "published": "Tue, 20 Oct 2026 02:00:12 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 89,
+      "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
+      "url": "https://isc.sans.edu/diary/rss/33436",
+      "published": "2026-10-20T02:00:03+00:00",
+      "feed": "SANS ISC",
+      "feedUrl": "https://isc.sans.edu/rssfeed.xml",
+      "feedLabel": null,
+      "sourceKind": "publisher_rss"
+    },
+    {
+      "index": 90,
+      "title": "Why Leidos Stock And Defense IT Peers Could Benefit From AI Security Scrutiny - Simply Wall Street",
+      "url": "https://simplywall.st/stocks/us/commercial-services/nasdaq-saic/science-applications-international/news/why-leidos-stock-and-defense-it-peers-could-benefit-from-ai",
+      "published": "Tue, 20 Oct 2026 01:49:31 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 91,
+      "title": "Fights, threat prompt increased security at a Modesto High School - ABC10",
+      "url": "https://www.abc10.com/article/news/education/fights-threat-prompt-increased-security-at-a-modesto-high-school/103-94418cd4-c455-4239-bd20-b9e33a8d1038",
+      "published": "Tue, 20 Oct 2026 01:23:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 92,
+      "title": "Arizona election security in focus after separate incidents in Valley - ABC15 Arizona",
+      "url": "https://www.abc15.com/news/region-southeast-valley/gilbert/arizona-election-security-in-focus-after-separate-incidents-in-valley",
+      "published": "Tue, 20 Oct 2026 01:03:00 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 93,
+      "title": "A-State Board approves AI, technology and security policy changes - Talk Business & Politics",
+      "url": "https://talkbusiness.net/2026/10/a-state-board-approves-ai-technology-and-security-policy-changes",
+      "published": "Tue, 20 Oct 2026 00:31:16 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 94,
+      "title": "G20 Summit security plans ramp up in Doral ahead of December - NBC 6 South Florida",
+      "url": "https://www.nbcmiami.com/news/local/g20-summit-security-plans-ramp-up-in-doral-ahead-of-december/3874861",
+      "published": "Tue, 20 Oct 2026 00:00:24 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 95,
+      "title": "G20 Summit in Doral brings big security plan - NBC 6 South Florida",
+      "url": "https://www.nbcmiami.com/video/nbc-6-news/g20-summit-in-doral-brings-big-security-plan/3874838",
+      "published": "Mon, 19 Oct 2026 23:59:16 GMT",
+      "feed": "cybersecurity",
+      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "Cybersecurity / Information Security",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 96,
+      "title": "Radware (RDWR) Could Be 46% Above Fair Value Following Its AI Security Launch - Simply Wall Street",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-rdwr/radware/news/radware-rdwr-could-be-46-above-fair-value-following-its-ai-s/amp",
+      "published": "Mon, 19 Oct 2026 23:51:16 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 97,
+      "title": "Anthropic OSS Scanner: Evidence, Setup & Maintainer Guide - Kingy AI",
+      "url": "https://kingy.ai/blog/anthropic-oss-scanner",
+      "published": "Mon, 19 Oct 2026 23:30:51 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 98,
       "title": "After Bend shooting, questions grow about Oregon’s school security requirements - KATU",
       "url": "https://katu.com/news/local/after-bend-shooting-questions-grow-about-oregons-school-security-requirements-silver-rail-elementary-school-rhoam-summer-megan-lambert-safety-gun-violence-local-community",
       "published": "Mon, 19 Oct 2026 23:25:40 GMT",
@@ -93,107 +993,27 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 9,
-      "title": "Your Hosting Is Part of Your Security — Not a Separate Purchase",
-      "url": "https://dev.to/rapidbizzteam/your-hosting-is-part-of-your-security-not-a-separate-purchase-3n6b",
-      "published": "2026-10-19T23:24:53+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 10,
-      "title": "Mobile Gamma Cameras Market To 2035: Demand Accelerates on Nuclear Security and Emergency Preparedness - News and Statistics - IndexBox",
-      "url": "https://www.indexbox.io/blog/mobile-gamma-cameras-market-forecast-to-2035-growth-driven-by-rising-nuclear-security-and-radiological-emergency-preparedness",
-      "published": "Mon, 19 Oct 2026 23:21:04 GMT",
+      "index": 99,
+      "title": "Local expert warns businesses of cybersecurity risks - WNKY",
+      "url": "https://www.wnky.com/local-expert-warns-businesses-of-cybersecurity-risks",
+      "published": "Mon, 19 Oct 2026 23:04:22 GMT",
       "feed": "cybersecurity",
       "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
       "feedLabel": "Cybersecurity / Information Security",
       "sourceKind": "google_news"
     },
     {
-      "index": 11,
-      "title": "Amoxi: Validation, sessions and security you get for free",
-      "url": "https://dev.to/karawash-projects/amoxi-validation-sessions-and-security-you-get-for-free-449k",
-      "published": "2026-10-19T23:20:42+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 12,
-      "title": "Chippewa County Ensures Midterm Security - WEAU",
-      "url": "https://www.weau.com/video/2026/10/19/chippewa-county-ensures-midterm-security",
-      "published": "Mon, 19 Oct 2026 23:14:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 13,
-      "title": "Florida officials confirm data breach exposed driver license information - WPBF",
-      "url": "https://www.wpbf.com/article/florida-data-breach-exposed-driver-license-information-2026/74185483",
-      "published": "Mon, 19 Oct 2026 23:06:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 14,
-      "title": "Cohere Plans to Acquire Aisle to Add AI-Powered Code Security - DevOps.com",
-      "url": "https://devops.com/cohere-plans-to-acquire-aisle-to-add-ai-powered-code-security",
-      "published": "Mon, 19 Oct 2026 23:03:51 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 15,
-      "title": "AI agent governance at scale: The four pillars every enterprise needs - Hawaii Tribune-Herald",
-      "url": "https://www.hawaiitribune-herald.com/syndicated/ai-agent-governance-at-scale-the-four-pillars-every-enterprise-needs",
-      "published": "Mon, 19 Oct 2026 23:00:00 GMT",
+      "index": 100,
+      "title": "Palo Alto Networks (PANW) Expands AI Security Services, Is It Still 12% Below Fair Value? - Simply Wall Street",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-panw/palo-alto-networks/news/palo-alto-networks-panw-expands-ai-security-services-is-it-s",
+      "published": "Mon, 19 Oct 2026 22:52:18 GMT",
       "feed": "ai_security",
       "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
       "feedLabel": "AI security / LLM attacks",
       "sourceKind": "google_news"
     },
     {
-      "index": 16,
-      "title": "Local expert warns businesses of cybersecurity risks - WNKY",
-      "url": "https://www.wnky.com/local-expert-warns-businesses-of-cybersecurity-risks",
-      "published": "Mon, 19 Oct 2026 22:59:22 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 17,
-      "title": "Palo Alto Networks (PANW) Expands AI Security Services, Is It Still 12% Below Fair Value? - Simply Wall Street",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-panw/palo-alto-networks/news/palo-alto-networks-panw-expands-ai-security-services-is-it-s/amp",
-      "published": "Mon, 19 Oct 2026 22:52:18 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 18,
-      "title": "Another man arrested after gun found at Laney tailgate, security questions remain - WRDW",
-      "url": "https://www.wrdw.com/video/2026/10/19/another-man-arrested-after-gun-found-laney-tailgate-security-questions-remain",
-      "published": "Mon, 19 Oct 2026 22:45:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 19,
+      "index": 101,
       "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
       "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades",
       "published": "2026-10-19T22:44:26+00:00",
@@ -203,27 +1023,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 20,
-      "title": "Chinese-made equipment raises security concerns in South Korean Army - upi",
-      "url": "https://www.upi.com/Top_News/World-News/2026/10/19/chinese-technology-military-cybersecurity-yu-yong-weon/8011792449162",
-      "published": "Mon, 19 Oct 2026 22:39:05 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 21,
-      "title": "Microsoft: Artificial Intelligence is not completely safe and needs human control",
-      "url": "https://dev.to/hacksgr/microsoft-artificial-intelligence-is-not-completely-safe-and-needs-human-control-2hpk",
-      "published": "2026-10-19T22:38:00+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 22,
+      "index": 102,
       "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
       "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257",
       "published": "2026-10-19T22:35:42+00:00",
@@ -233,27 +1033,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 23,
-      "title": "Kansas officials step up security, conduct assessment after deadly soccer field crash - NBC News",
-      "url": "https://www.nbcnews.com/video/kansas-officials-step-up-security-conduct-assessment-after-deadly-soccer-field-crash-271846981954",
-      "published": "Mon, 19 Oct 2026 22:33:08 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 24,
-      "title": "Yield Strategy Optimization Report: Uniswap V4",
-      "url": "https://dev.to/dannydoes_2abdf9c/yield-strategy-optimization-report-uniswap-v4-28bo",
-      "published": "2026-10-19T22:30:15+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 25,
+      "index": 103,
       "title": "Five Cybersecurity Areas for Review This Month - CBIA",
       "url": "https://www.cbia.com/news/small-business/five-cybersecurity-areas-review",
       "published": "Mon, 19 Oct 2026 22:11:28 GMT",
@@ -263,27 +1043,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 26,
-      "title": "Inmate escape at McLeod hospital prompts security reviews as new details emerge - WPDE",
-      "url": "https://wpde.com/news/local/inmate-escape-at-mcleod-hospital-regional-medical-center-prompts-security-reviews-as-new-details-emerge-tyquan-rashon-shaw-24-cheves-street",
-      "published": "Mon, 19 Oct 2026 22:10:44 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 27,
-      "title": "Permitting reform ‘single most important thing we could do for national security,’ senator says - Nextgov/FCW",
-      "url": "https://www.nextgov.com/policy/2026/10/permitting-reform-single-most-important-thing-we-could-do-national-security-senator-says/416690/?oref=ng-homepage-river",
-      "published": "Mon, 19 Oct 2026 22:05:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 28,
+      "index": 104,
       "title": "UK and Canada Renew AI Security Pact—Joint Evaluations Are Still Exploratory - Quasa.io",
       "url": "https://quasa.io/stories/uk-and-canada-renew-ai-security-pact-joint-evaluations-are-still-exploratory",
       "published": "Mon, 19 Oct 2026 22:00:00 GMT",
@@ -293,47 +1053,17 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 29,
-      "title": "Global GRAB Technologies Acquires Barrier 1 Systems - Security Today",
-      "url": "https://securitytoday.com/articles/2026/10/19/global-grab-technologies-acquires-barrier-1-systems.aspx",
-      "published": "Mon, 19 Oct 2026 21:59:34 GMT",
+      "index": 105,
+      "title": "Governmentwide cyber exercise to test resilience against AI cyber attack - Federal News Network",
+      "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/governmentwide-cyber-exercise-to-test-resilience-against-ai-cyber-attack",
+      "published": "Mon, 19 Oct 2026 21:53:20 GMT",
       "feed": "cybersecurity",
       "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
       "feedLabel": "Cybersecurity / Information Security",
       "sourceKind": "google_news"
     },
     {
-      "index": 30,
-      "title": "Designing an uncheatable trial referral system: 5 anti-abuse patterns from production",
-      "url": "https://dev.to/scsoi/designing-an-uncheatable-trial-referral-system-5-anti-abuse-patterns-from-production-3nh4",
-      "published": "2026-10-19T21:57:04+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 31,
-      "title": "Last week in Agent Security Update 3: That's not Aoki!",
-      "url": "https://dev.to/willvelida/last-week-in-agent-security-update-3-thats-not-aoki-26o9",
-      "published": "2026-10-19T21:52:53+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 32,
-      "title": "Employee financial security falls to 7-year low - Channel 3000",
-      "url": "https://www.channel3000.com/news/employee-financial-security-falls-to-7-year-low/article_d39fe9e5-1b7a-436d-b039-aba02bdf6563.html",
-      "published": "Mon, 19 Oct 2026 21:50:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 33,
+      "index": 106,
       "title": "US orders DeepSeek removed from federal systems, citing national security risks - South China Morning Post",
       "url": "https://www.scmp.com/news/us/article/3371431/us-orders-deepseek-removed-federal-systems-citing-national-security-risks",
       "published": "Mon, 19 Oct 2026 21:49:10 GMT",
@@ -343,17 +1073,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 34,
-      "title": "The CRA reporting clock is running. Generating an SBOM was never the hard part.",
-      "url": "https://dev.to/roshcompanylabs/the-cra-reporting-clock-is-running-generating-an-sbom-was-never-the-hard-part-5d28",
-      "published": "2026-10-19T21:47:05+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 35,
+      "index": 107,
       "title": "When a Ship’s Systems Lie, Cybersecurity Gets Complicated | Newswise - Newswise",
       "url": "https://www.newswise.com/articles/when-a-ship-s-systems-lie-cybersecurity-gets-complicated",
       "published": "Mon, 19 Oct 2026 21:45:00 GMT",
@@ -363,77 +1083,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 36,
-      "title": "Keeper, Tenable Link Cloud Detection with Remediation - Security Today",
-      "url": "https://securitytoday.com/articles/2026/10/19/keeper-tenable-link-cloud-detection-with-remediation.aspx?admgarea=cybersecurity",
-      "published": "Mon, 19 Oct 2026 21:38:20 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 37,
-      "title": "CodeQL can't trace Xcode 27 builds or scan Swift 6.4",
-      "url": "https://dev.to/techaiwire/codeql-cant-trace-xcode-27-builds-or-scan-swift-64-20gn",
-      "published": "2026-10-19T21:34:09+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 38,
-      "title": "Controlling Access to A2A Agents with agentgateway",
-      "url": "https://dev.to/nnennandukwe/controlling-access-to-a2a-agents-with-agentgateway-bf",
-      "published": "2026-10-19T21:30:31+00:00",
-      "feed": "Dev.to Security",
-      "feedUrl": "https://dev.to/feed/tag/security",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 39,
-      "title": "Oklahoma Employment Security Commission to host Duncan community workforce showcase - KSWO 7News",
-      "url": "https://www.kswo.com/2026/10/19/oklahoma-employment-security-commission-host-duncan-community-workforce-showcase",
-      "published": "Mon, 19 Oct 2026 21:29:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 40,
-      "title": "Chippewa County ensures midterm security ahead of early voting - WEAU",
-      "url": "https://www.weau.com/2026/10/19/chippewa-county-ensures-midterm-security-ahead-early-voting",
-      "published": "Mon, 19 Oct 2026 21:21:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 41,
-      "title": "Expanded earned income tax credit improved housing security for childless young adults - Phys.org",
-      "url": "https://phys.org/news/2026-10-income-tax-credit-housing-childless.html",
-      "published": "Mon, 19 Oct 2026 21:20:07 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 42,
-      "title": "Rehmann Offering Cybersecurity Awareness Seminar - JTV Jackson",
-      "url": "https://jtv.tv/rehmann-offering-cybersecurity-awareness-seminar",
-      "published": "Mon, 19 Oct 2026 21:16:59 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 43,
+      "index": 108,
       "title": "The Virginia Tech National Security Institute celebrates five years of excellence - Virginia Tech News",
       "url": "https://news.vt.edu/articles/2026/10/vtnsi-fifth-anniversary.html",
       "published": "Mon, 19 Oct 2026 21:15:53 GMT",
@@ -443,77 +1093,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 44,
-      "title": "TCAPS highlights security measures during Safe Schools Week - 9and10News.com",
-      "url": "https://www.9and10news.com/2026/10/19/tcaps-highlights-security-measures-during-safe-schools-week",
-      "published": "Mon, 19 Oct 2026 21:09:27 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 45,
-      "title": "Community College of Denver launches cybersecurity degree with work experience - ColoradoBiz",
-      "url": "https://coloradobiz.com/community-college-denver-launches-cybersecurity-degree-work-experience",
-      "published": "Mon, 19 Oct 2026 21:06:05 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 46,
-      "title": "Icetana takes its AI security into robotics - NT News",
-      "url": "https://www.ntnews.com.au/business/stockhead/icetana-plugs-ai-security-into-softbanks-robot-rollout/news-story/371fe060f19d6c8343b0608bcba21f00",
-      "published": "Mon, 19 Oct 2026 21:04:07 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 47,
-      "title": "Ohio Secretary of State’s office dealing with security incident - WOUB Public Media -",
-      "url": "https://woub.org/2026/10/19/ohio-secretary-of-state-office-security-incident",
-      "published": "Mon, 19 Oct 2026 21:02:18 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 48,
-      "title": "Maximus to Acquire Agile Defense, Advancing Defense and National Security Growth Strategy - Business Wire",
-      "url": "https://www.businesswire.com/news/home/20261019016904/en/Maximus-to-Acquire-Agile-Defense-Advancing-Defense-and-National-Security-Growth-Strategy",
-      "published": "Mon, 19 Oct 2026 21:00:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 49,
-      "title": "Mom begs for security after 13-year-old son shot twice - fox8live.com",
-      "url": "https://www.fox8live.com/video/2026/10/19/mom-begs-security-after-13-year-old-son-shot-twice",
-      "published": "Mon, 19 Oct 2026 20:59:32 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 50,
-      "title": "Mom begs for security after 13-year-old son shot twice - Valley News Live",
-      "url": "https://www.valleynewslive.com/video/2026/10/19/mom-begs-security-after-13-year-old-son-shot-twice",
-      "published": "Mon, 19 Oct 2026 20:56:41 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 51,
+      "index": 109,
       "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
       "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine",
       "published": "2026-10-19T20:54:17+00:00",
@@ -523,97 +1103,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 52,
-      "title": "AI cloud security needs to prove control before agents reach production - VentureBeat",
-      "url": "https://venturebeat.com/security/ai-cloud-security-needs-to-prove-control-before-agents-reach-production",
-      "published": "Mon, 19 Oct 2026 20:52:50 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 53,
-      "title": "‘This can’t keep happening’: Mother calls for more security after son shot twice at same apartment complex - WDAM-TV",
-      "url": "https://www.wdam.com/2026/10/19/this-cant-keep-happening-mother-calls-more-security-after-son-shot-twice-same-apartment-complex",
-      "published": "Mon, 19 Oct 2026 20:51:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 54,
-      "title": "Secret Service urged Trump to use old Air Force One as a security precaution: Sources - ABC7 Bay Area",
-      "url": "https://abc7news.com/story/secret-service-urged-trump-depart-turkey-old-air-force-security-precaution-sources-say/19474574/?userab=kfsn_content_recs-582%2Avariant_a_control_kfsn-2512%2Ckabc_content_recs-577%2Avariant_a_control-2480%2Cwls_content_recs-584%2Avariant_b_trending_wls-2517%2Cwtvd_content_recs-585%2Avariant_a_control_wtvd-2518%2Cktrk_content_recs-587%2Avariant_b_trending_ktrk-2523%2Cwpvi_content_recs-586%2Avariant_a_control_wpvi-2520%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_b_topic_redesign-2509%2Cfollow_abcnews_otv_on_google-654%2Avariant_a_control-3493%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Cvertical_video_web-519%2Acontrol-2163%2Cabcn_popular_reads_exp_followup-648%2Avariant_a_control-3455%2Cotv_mobile_web_content_recs-639%2Avariant_b_mobile_content_recs_enabled-3431%2Ckgo_content_recs-583%2Avariant_b_trending_kgo-2515%2Cotvlink_abcnnav-576%2Avariant_b_local-2479",
-      "published": "Mon, 19 Oct 2026 20:41:20 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 55,
-      "title": "St. Louis officials update security after detainee escapes - Spectrum News",
-      "url": "https://spectrumlocalnews.com/mo/st-louis/news/2026/10/19/st-louis-cjc-maurio-thomas-escape",
-      "published": "Mon, 19 Oct 2026 20:39:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 56,
-      "title": "City issues enhanced security plan for Memphis City Council meetings - localmemphis.com",
-      "url": "https://www.localmemphis.com/article/news/local/city-issues-enhanced-security-plan-for-memphis-city-council-meetings/522-ad76aa79-a0b1-4e4e-88ee-39aa3d0c9d40",
-      "published": "Mon, 19 Oct 2026 20:38:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 57,
-      "title": "ND Today: Cybersecurity Awareness Month with NDIT - KFYR-TV",
-      "url": "https://www.kfyrtv.com/video/2026/10/19/nd-today-cybersecurity-awareness-month-with-ndit",
-      "published": "Mon, 19 Oct 2026 20:36:27 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 58,
-      "title": "City council announces enhanced security measures for meeting - Action News 5",
-      "url": "https://www.actionnews5.com/2026/10/19/city-council-announces-enhanced-security-measures-meeting",
-      "published": "Mon, 19 Oct 2026 20:34:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 59,
-      "title": "Trump says security cameras installed at Reflecting Pool, threatens to jail future vandals - WFLA",
-      "url": "https://www.wfla.com/news/national/trump-says-security-cameras-installed-at-reflecting-pool-threatens-to-jail-future-vandals",
-      "published": "Mon, 19 Oct 2026 20:24:40 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 60,
-      "title": "Dan Ives’ 5 Cybersecurity Stocks for the AI Boom - Palo Alto Networks (NASDAQ:PANW), Fortinet (NASDAQ:FTN - Benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62453730/dan-ives-cybersecurity-stocks",
-      "published": "Mon, 19 Oct 2026 20:23:26 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 61,
+      "index": 110,
       "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
       "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
       "published": "2026-10-19T20:21:53+00:00",
@@ -623,27 +1113,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 62,
-      "title": "Data breach exposes California student information: How to protect your family - LAist",
-      "url": "https://laist.com/news/education/california-student-data-breach-2026-what-do-do",
-      "published": "Mon, 19 Oct 2026 20:20:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 63,
-      "title": "Security Alert: U.S. Mission to Saudi Arabia – October 19, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "url": "https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-october-19-2026",
-      "published": "Mon, 19 Oct 2026 20:06:55 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 64,
+      "index": 111,
       "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
       "url": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller",
       "published": "2026-10-19T20:03:55+00:00",
@@ -653,7 +1123,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 65,
+      "index": 112,
       "title": "Homeland Security grants temporary deportation reprieve for more than 100,000 Ukrainians and Sudanese - PBS",
       "url": "https://www.pbs.org/newshour/world/homeland-security-grants-temporary-deportation-reprieve-for-more-than-100000-ukrainians-and-sudanese",
       "published": "Mon, 19 Oct 2026 19:56:50 GMT",
@@ -663,17 +1133,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 66,
-      "title": "Secretary Rubio Delivers Remarks to the Munich Security Conference - Texas Border Business",
-      "url": "https://texasborderbusiness.com/secretary-rubio-delivers-remarks-to-the-munich-security-conference",
-      "published": "Mon, 19 Oct 2026 19:49:53 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 67,
+      "index": 113,
       "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
       "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
       "published": "2026-10-19T19:49:17+00:00",
@@ -683,7 +1143,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 68,
+      "index": 114,
       "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
       "url": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
       "published": "2026-10-19T19:49:00+00:00",
@@ -693,17 +1153,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 69,
-      "title": "Man accused of trying to enter Tennessee-Alabama game with stolen security uniform - WATE 6 On Your Side",
-      "url": "https://www.wate.com/news/local-news/security-uniform-theft-knoxville",
-      "published": "Mon, 19 Oct 2026 19:47:34 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 70,
+      "index": 115,
       "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
       "url": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
       "published": "2026-10-19T19:45:00+00:00",
@@ -713,7 +1163,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 71,
+      "index": 116,
       "title": "PSA: Patch your Plex media server before someone hacks it",
       "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware",
       "published": "2026-10-19T19:39:19+00:00",
@@ -723,17 +1173,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 72,
-      "title": "Security breach reveals some healthcare data of Kentuckians - Kentucky Lantern",
-      "url": "https://kentuckylantern.com/2026/10/19/security-breach-reveals-some-healthcare-data-of-kentuckians",
-      "published": "Mon, 19 Oct 2026 19:35:06 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 73,
+      "index": 117,
       "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
       "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test",
       "published": "2026-10-19T19:27:24+00:00",
@@ -743,17 +1183,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 74,
-      "title": "Scams Are a National Security Threat, Not Just a Public Awareness Issue - Stimson Center",
-      "url": "https://www.stimson.org/2026/scams-are-a-national-security-threat-not-just-a-public-awareness-issue",
-      "published": "Mon, 19 Oct 2026 19:26:48 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 75,
+      "index": 118,
       "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears - UN News",
       "url": "https://news.un.org/en/story/2026/10/1168626",
       "published": "Mon, 19 Oct 2026 19:21:06 GMT",
@@ -763,17 +1193,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 76,
-      "title": "The Future of Energy Security - CGEP",
-      "url": "https://www.energypolicy.columbia.edu/initiatives/future-of-energy-security",
-      "published": "Mon, 19 Oct 2026 19:16:34 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 77,
+      "index": 119,
       "title": "Cutting our inference bill by 68% by being obsessive about optimization",
       "url": "https://blog.cloudflare.com/obsessive-inference-optimization",
       "published": "2026-10-19T19:12:53+00:00",
@@ -783,37 +1203,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 78,
-      "title": "Security official warns of more suspicious letters to lawmakers - Roll Call",
-      "url": "https://rollcall.com/2026/10/19/security-official-warns-more-suspicious-letters-lawmakers",
-      "published": "Mon, 19 Oct 2026 19:05:10 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 79,
-      "title": "Nearly 3,800 estimated to be impacted by security breach of KYHealth-Net system - WNKY",
-      "url": "https://www.wnky.com/nearly-3800-estimated-to-be-impacted-by-security-breach-of-kyhealth-net-system",
-      "published": "Mon, 19 Oct 2026 19:02:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 80,
-      "title": "How Phoenix Boosted Its Cybersecurity for Water Services - GovTech",
-      "url": "https://www.govtech.com/security/how-phoenix-boosted-its-cybersecurity-for-water-services",
-      "published": "Mon, 19 Oct 2026 19:01:17 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 81,
+      "index": 120,
       "title": "Microsoft Expands Project Perception to Address Security Risks from AI Agents - Redmondmag.com",
       "url": "https://redmondmag.com/articles/2026/10/19/microsoft-expands-project-perception-to-address-security-risks-from-ai-agents.aspx",
       "published": "Mon, 19 Oct 2026 18:46:17 GMT",
@@ -823,17 +1213,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 82,
-      "title": "Mickey Boodaei steps down as Transmit Security CEO after 12 years - CTech",
-      "url": "https://www.calcalistech.com/ctechnews/article/bkb1s1e3ze",
-      "published": "Mon, 19 Oct 2026 18:46:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 83,
+      "index": 121,
       "title": "Two more Serbian opposition figures targeted with spyware, researchers say",
       "url": "https://therecord.media/serbia-spyware-pegasus-elections",
       "published": "2026-10-19T18:45:00+00:00",
@@ -843,7 +1223,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 84,
+      "index": 122,
       "title": "ReactOS reaches major milestone with NTFS install support",
       "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support",
       "published": "2026-10-19T18:30:56+00:00",
@@ -853,7 +1233,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 85,
+      "index": 123,
       "title": "Wyden seeks adoption of encryption tech at hundreds of federal agencies to protect visitors’ sensitive traffic",
       "url": "https://cyberscoop.com/wyden-urges-federal-adoption-encrypted-client-hello",
       "published": "2026-10-19T18:27:32+00:00",
@@ -863,7 +1243,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 86,
+      "index": 124,
       "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy? - Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy",
       "published": "Mon, 19 Oct 2026 18:27:11 GMT",
@@ -873,27 +1253,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 87,
-      "title": "How Can I Start A Career In AI Security With Proper Training? - AICERTs",
-      "url": "https://www.aicerts.ai/blogs/how-can-i-start-a-career-in-ai-security-with-proper-training",
-      "published": "Mon, 19 Oct 2026 18:17:52 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 88,
-      "title": "Canelo, WWE Stay on Saudi Calendar Despite U.S. Security Alerts - Front Office Sports",
-      "url": "https://frontofficesports.com/article/canelo-wwe-stay-on-saudi-calendar-us-security-alerts",
-      "published": "Mon, 19 Oct 2026 18:06:09 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 89,
+      "index": 125,
       "title": "Introducing Clairic, a new System One class of extraction models",
       "url": "https://blog.cloudflare.com/clairic-extraction-model",
       "published": "2026-10-19T17:48:26+00:00",
@@ -903,7 +1263,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 90,
+      "index": 126,
       "title": "OpenEvidence, Doximity reach settlement in contentious AI legal battle - Fierce Healthcare",
       "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit",
       "published": "Mon, 19 Oct 2026 17:30:00 GMT",
@@ -913,7 +1273,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 91,
+      "index": 127,
       "title": "Google Expands Android AI Security to Combat Scam Calls, Phishing and OTP Theft - Konsulteer",
       "url": "https://www.konsulteer.com/article/google-expands-android-ai-security-to-combat-scam-calls-phishing-and-otp-theft",
       "published": "Mon, 19 Oct 2026 17:25:39 GMT",
@@ -923,17 +1283,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 92,
-      "title": "Israel Election 2026: How Benjamin Netanyahu, Eisenkot's security visions compare - The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912193",
-      "published": "Mon, 19 Oct 2026 17:20:23 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 93,
+      "index": 128,
       "title": "Architectural Deep-Dive: Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
       "url": "https://dev.to/hordii_bohdan/architectural-deep-dive-behavioral-couplings-from-formation-to-behavioral-emergence-in-language-2j94",
       "published": "2026-10-19T17:06:14+00:00",
@@ -943,7 +1293,17 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 94,
+      "index": 129,
+      "title": "AI agent governance at scale: The four pillars every enterprise needs - Eureka Springs Times-Echo",
+      "url": "https://www.eurekaspringstimesecho.net/premium/stacker/stories/ai-agent-governance-at-scale-the-four-pillars-every-enterprise-needs,41324",
+      "published": "Mon, 19 Oct 2026 17:00:08 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 130,
       "title": "AI game clones are making indie developers afraid to show their work",
       "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work",
       "published": "2026-10-19T16:59:22+00:00",
@@ -953,7 +1313,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 95,
+      "index": 131,
       "title": "Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands",
       "url": "https://therecord.media/ahold-delhaize-cyberattack-grocery",
       "published": "2026-10-19T16:45:00+00:00",
@@ -963,7 +1323,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 96,
+      "index": 132,
       "title": "AI in Litigation: New California Law on Lawyer Use and Connecticut Prompt Injection Ruling - PYMNTS.com",
       "url": "https://www.pymnts.com/cpi-posts/ai-in-litigation-new-california-law-on-lawyer-use-and-connecticut-prompt-injection-ruling",
       "published": "Mon, 19 Oct 2026 16:44:39 GMT",
@@ -973,7 +1333,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 97,
+      "index": 133,
       "title": "Florida DMV hacked after police dept insecurely stored login info",
       "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents",
       "published": "2026-10-19T16:38:13+00:00",
@@ -983,7 +1343,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 98,
+      "index": 134,
       "title": "Your Next Insider Threat Won’t be Human: Securing AI Agents From the Outside in",
       "url": "https://www.rapid7.com/blog/post/ai-inhuman-insider-threats-securing-agents",
       "published": "2026-10-19T16:34:43+00:00",
@@ -993,7 +1353,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 99,
+      "index": 135,
       "title": "How JetStream Aims To Build A ‘Lasting’ AI Security Platform With The Channel: Execs - CRN",
       "url": "https://www.crn.com/news/security/2026/how-jetstream-aims-to-build-a-lasting-ai-security-platform-with-the-channel-execs",
       "published": "Mon, 19 Oct 2026 16:26:00 GMT",
@@ -1003,7 +1363,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 100,
+      "index": 136,
       "title": "SandboxAQ launches tools to test AI agents and track what they cost - The Next Web",
       "url": "https://thenextweb.com/news/sandboxaq-switch-trust-roi-ai-agents",
       "published": "Mon, 19 Oct 2026 16:07:50 GMT",
@@ -1013,7 +1373,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 101,
+      "index": 137,
       "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
       "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot",
       "published": "2026-10-19T16:00:00+00:00",
@@ -1023,7 +1383,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 102,
+      "index": 138,
       "title": "Exaforce recognized as a 'Progressive Player' in MarketsandMarkets™ 360Quadrants Platform for the AI-Security Operations Center (SOC) Market - PR Newswire",
       "url": "https://www.prnewswire.com/news-releases/exaforce-recognized-as-a-progressive-player-in-marketsandmarkets-360quadrants-platform-for-the-ai-security-operations-center-soc-market-302912821.html",
       "published": "Mon, 19 Oct 2026 16:00:00 GMT",
@@ -1033,7 +1393,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 103,
+      "index": 139,
       "title": "Authentication Bypass, Remote Code Execution, and Database Read in Eptura Archibus (FIXED)",
       "url": "https://www.rapid7.com/blog/post/ve-authentication-bypass-remote-code-execution-and-database-read-in-eptura-archibus-fixed",
       "published": "2026-10-19T15:57:43+00:00",
@@ -1043,17 +1403,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 104,
-      "title": "Russian social media giant VK faces disruptions after data center drone strike",
-      "url": "https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center",
-      "published": "2026-10-19T15:55:00+00:00",
-      "feed": "The Record",
-      "feedUrl": "https://therecord.media/feed",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 105,
+      "index": 140,
       "title": "DHS to ban DeepSeek from federal civilian agencies",
       "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies",
       "published": "2026-10-19T15:27:20+00:00",
@@ -1063,7 +1413,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 106,
+      "index": 141,
       "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
       "url": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779",
       "published": "2026-10-19T15:11:57+00:00",
@@ -1073,7 +1423,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 107,
+      "index": 142,
       "title": "Ahold Delhaize update on status of cybersecurity incident - Ahold Delhaize",
       "url": "https://newsroom.aholddelhaize.com/ahold-delhaize-update-on-status-of-cybersecurity-incident",
       "published": "Mon, 19 Oct 2026 15:04:25 GMT",
@@ -1083,7 +1433,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 108,
+      "index": 143,
       "title": "Disney found a way to buy Character.AI without buying its lawsuits",
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
       "published": "2026-10-19T14:45:43+00:00",
@@ -1093,7 +1443,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 109,
+      "index": 144,
       "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
       "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield",
       "published": "2026-10-19T14:35:01+00:00",
@@ -1103,7 +1453,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 110,
+      "index": 145,
       "title": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild",
       "url": "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild",
       "published": "2026-10-19T14:34:04+00:00",
@@ -1113,7 +1463,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 111,
+      "index": 146,
       "title": "Department of War Announces Research Security Mitigation Results From Academic Institution - U.S. Department of War (.gov)",
       "url": "https://www.war.gov/News/Releases/Release/Article/4628392/department-of-war-announces-research-security-mitigation-results-from-academic",
       "published": "Mon, 19 Oct 2026 14:16:43 GMT",
@@ -1123,7 +1473,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 112,
+      "index": 147,
       "title": "Echo Targets Growing Enterprise Risk From AI-Discovered Zero-Days with Frontier Launch - Cybersecurity Insiders",
       "url": "https://www.cybersecurity-insiders.com/echo-targets-growing-enterprise-risk-from-ai-discovered-zero-days-with-frontier-launch",
       "published": "Mon, 19 Oct 2026 14:09:37 GMT",
@@ -1133,7 +1483,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 113,
+      "index": 148,
       "title": "Why the enterprise AI security gap starts below the model - VentureBeat",
       "url": "https://venturebeat.com/video/why-the-enterprise-ai-security-gap-starts-below-the-model",
       "published": "Mon, 19 Oct 2026 14:05:10 GMT",
@@ -1143,7 +1493,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 114,
+      "index": 149,
       "title": "Microsoft warns of ‘agentic insiders’ in enterprise AI security - Blockchain News",
       "url": "https://blockchain.news/news/microsoft-warns-agentic-insiders-enterprise-ai-security",
       "published": "Mon, 19 Oct 2026 13:59:16 GMT",
@@ -1153,7 +1503,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 115,
+      "index": 150,
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site",
       "published": "2026-10-19T13:48:56+00:00",
@@ -1163,7 +1513,17 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 116,
+      "index": 151,
+      "title": "Nigeria records 93% rise in AI micro-credential enrolments, 113% increase in critical thinking: Report - Peoples Gazette Nigeria",
+      "url": "https://gazettengr.com/nigeria-records-93-rise-in-ai-micro-credential-enrolments-113-increase-in-critical-thinking-report",
+      "published": "Mon, 19 Oct 2026 13:43:06 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 152,
       "title": "Microsoft unveils security tools to monitor and restrict rogue AI agents - news.lavx.hu",
       "url": "https://news.lavx.hu/article/microsoft-unveils-security-tools-to-monitor-and-restrict-rogue-ai-agents",
       "published": "Mon, 19 Oct 2026 13:42:12 GMT",
@@ -1173,7 +1533,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 117,
+      "index": 153,
       "title": "Review: Lanterns is a truly unique twist on the superhero genre",
       "url": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre",
       "published": "2026-10-19T13:31:08+00:00",
@@ -1183,7 +1543,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 118,
+      "index": 154,
       "title": "Unmasking the robots: Why it’s critical to discover AI agent identities and how Tenable helps you secure them",
       "url": "https://www.tenable.com/blog/secure-ai-agent-identities-microsoft-entra-agent-id-tenable-one",
       "published": "2026-10-19T13:17:00+00:00",
@@ -1193,7 +1553,17 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 119,
+      "index": 155,
+      "title": "Microsoft Tackles AI Insider Threats with Project Perception - The Tech Buzz",
+      "url": "https://www.techbuzz.ai/articles/microsoft-tackles-ai-insider-threats-with-project-perception",
+      "published": "Mon, 19 Oct 2026 13:08:00 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 156,
       "title": "Agents are your newest insiders. Security must move at their speed.",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed",
       "published": "2026-10-19T13:00:00+00:00",
@@ -1203,7 +1573,7 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 120,
+      "index": 157,
       "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
       "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway",
       "published": "2026-10-19T13:00:00+00:00",
@@ -1213,7 +1583,17 @@
       "sourceKind": "publisher_rss"
     },
     {
-      "index": 121,
+      "index": 158,
+      "title": "Fortanix Announces Confidential AI for Enterprise Grade Kubernetes Workloads on CNCF® Confidential Containers (CoCo) - STT Info",
+      "url": "https://www.sttinfo.fi/tiedote/72424390/fortanix-announces-confidential-ai-for-enterprise-grade-kubernetes-workloads-on-cncfr-confidential-containers-coco?publisherId=58763726&lang=en",
+      "published": "Mon, 19 Oct 2026 13:00:00 GMT",
+      "feed": "ai_security",
+      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "feedLabel": "AI security / LLM attacks",
+      "sourceKind": "google_news"
+    },
+    {
+      "index": 159,
       "title": "Spike in AI course enrolments in SA - ITWeb",
       "url": "https://www.itweb.co.za/article/spike-in-ai-course-enrolments-in-sa/wbrpO7g2eWyvDLZn",
       "published": "Mon, 19 Oct 2026 12:55:32 GMT",
@@ -1223,7 +1603,7 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 122,
+      "index": 160,
       "title": "Is CrowdStrike Holdings (CRWD) Fully Priced As Its AI Security Narrative Faces A Pullback? - Simply Wall Street",
       "url": "https://simplywall.st/stocks/us/software/nasdaq-crwd/crowdstrike-holdings/news/is-crowdstrike-holdings-crwd-fully-priced-as-its-ai-security",
       "published": "Mon, 19 Oct 2026 12:44:12 GMT",
@@ -1233,282 +1613,12 @@
       "sourceKind": "google_news"
     },
     {
-      "index": 123,
+      "index": 161,
       "title": "DIY VR: How to build your own headset, and why you probably won't want to",
       "url": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to",
       "published": "2026-10-19T12:33:34+00:00",
       "feed": "Ars Technica",
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 124,
-      "title": "Training AIs to Solve CAPTCHAs",
-      "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-      "published": "2026-10-19T11:07:43+00:00",
-      "feed": "Schneier on Security",
-      "feedUrl": "https://www.schneier.com/feed/atom/",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 125,
-      "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-      "url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan",
-      "published": "2026-10-19T11:05:49+00:00",
-      "feed": "Ars Technica",
-      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 126,
-      "title": "How to Secure Crypto Wallets Used by AI Agents - Analytics Insight",
-      "url": "https://www.analyticsinsight.net/amp/story/cryptocurrency-analytics-insight/how-to-secure-crypto-wallets-used-by-ai-agents",
-      "published": "Mon, 19 Oct 2026 10:36:34 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 127,
-      "title": "Spyware found on devices belonging to prominent Serbian critics as elections loom",
-      "url": "https://cyberscoop.com/pegasus-spyware-serbia-critics-elections",
-      "published": "2026-10-19T10:00:00+00:00",
-      "feed": "CyberScoop",
-      "feedUrl": "https://cyberscoop.com/feed/",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 128,
-      "title": "US Cybersecurity Job Postings Fall 26%, Hitting Four Year Low - Infosecurity Magazine",
-      "url": "https://www.infosecurity-magazine.com/news/cybersecurity-job-postings-fall",
-      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 129,
-      "title": "ImageDeep launches solar 4G AI security unit - Security Journal Americas",
-      "url": "https://securityjournalamericas.com/imagedeep-solar-4g-ai-security-unit",
-      "published": "Mon, 19 Oct 2026 09:54:37 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 130,
-      "title": "AI Security Engineer: Demand +268% while cybersecurity job postings decline - SecNews.gr",
-      "url": "https://www.secnews.gr/en/741261/ai-security-engineer-zitisi-kyvernoasfaleia",
-      "published": "Mon, 19 Oct 2026 09:31:00 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 131,
-      "title": "The US $1.5m scam that never looked like a scam - Cybersecurity Insiders",
-      "url": "https://www.cybersecurity-insiders.com/the-us-1-5m-scam-that-never-looked-like-a-scam",
-      "published": "Mon, 19 Oct 2026 09:21:08 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 132,
-      "title": "Nigeria Sees 93% Surge In AI Micro-Credential Enrollments, Coursera Reports - Tech Build Africa",
-      "url": "https://techbuild.africa/nigeria-93-ai-micro-credential-enrol-coursera",
-      "published": "Mon, 19 Oct 2026 09:08:22 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 133,
-      "title": "Proofpoint is to acquire Varonis for $6.3 billion. AI security is at stake - Brandsit",
-      "url": "https://brandsit.pl/en/proofpoint-is-to-acquire-varonis-for-6-3-billion-ai-security-is-at-stake",
-      "published": "Mon, 19 Oct 2026 09:06:29 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 134,
-      "title": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It - ProPublica",
-      "url": "https://www.propublica.org/article/cisa-election-security-donald-trump",
-      "published": "Mon, 19 Oct 2026 09:00:00 GMT",
-      "feed": "cybersecurity",
-      "feedUrl": "https://news.google.com/rss/search?q=cybersecurity+OR+Information+OR+Security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "Cybersecurity / Information Security",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 135,
-      "title": "Five Major Bank CEOs Apologize, Promise AI Security Upgrades - 조선일보",
-      "url": "https://www.chosun.com/english/market-money-en/2026/10/19/MXNI54QXEFD6TJKVQ3UN35SOTM",
-      "published": "Mon, 19 Oct 2026 08:54:49 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 136,
-      "title": "The Only Part of Your AI Strategy That Survives Every Scenario is Data Governance - Cybersecurity Insiders",
-      "url": "https://www.cybersecurity-insiders.com/the-only-part-of-your-ai-strategy-that-survives-every-scenario-is-data-governance",
-      "published": "Mon, 19 Oct 2026 08:31:48 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 137,
-      "title": "US Cybersecurity Job Postings Fall 26% As AI Security Engineer Demand Soars - news.lavx.hu",
-      "url": "https://news.lavx.hu/article/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars",
-      "published": "Mon, 19 Oct 2026 08:08:43 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 138,
-      "title": "Entrepreneur Changing the World of AI Security: Jelani Van Carlo - Big News Network.com",
-      "url": "https://www.bignewsnetwork.com/news/279384382/entrepreneur-changing-the-world-of-ai-security-jelani-van-carlo",
-      "published": "Mon, 19 Oct 2026 07:53:00 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 139,
-      "title": "AI security tools threatened by trust and complexity challenges - Security Journal UK",
-      "url": "https://securityjournaluk.com/ai-security-threatened-by-trust-complexity",
-      "published": "Mon, 19 Oct 2026 07:50:59 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 140,
-      "title": "Weekly Update 526: Building HIBP AI/SI First",
-      "url": "https://www.troyhunt.com/weekly-update-526",
-      "published": "2026-10-19T06:47:58+00:00",
-      "feed": "Troy Hunt",
-      "feedUrl": "https://www.troyhunt.com/rss/",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 141,
-      "title": "BT, Netskope expand AI security partnership - Mobile Europe",
-      "url": "https://www.mobileeurope.co.uk/bt-netskope-ai-security",
-      "published": "Mon, 19 Oct 2026 05:36:36 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 142,
-      "title": "Trend Micro Announces Up to ¥10 Billion toward Cyber Resilience Initiative to Strengthen Security for Japanese Organizations in the AI Era - TradingView",
-      "url": "https://www.tradingview.com/news/prnewswire:54d18876c4254:0-trend-micro-announces-up-to-10-billion-toward-cyber-resilience-initiative-to-strengthen-security-for-japanese-organizations-in-the-ai-era",
-      "published": "Mon, 19 Oct 2026 05:00:00 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 143,
-      "title": "HKU, Global Cybersecurity Alliance Launch AI Security Centre - Mirage News",
-      "url": "https://www.miragenews.com/hku-global-cybersecurity-alliance-launch-ai-1762521",
-      "published": "Mon, 19 Oct 2026 04:04:00 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 144,
-      "title": "SoftBank Said to Consider $18 Billion Acquisition of Allied Universal: What Does AI Security Strategy Mean for SoftBank? - TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262222983-softbank-18-billion-acquisition-allied-universal-ai-security-tradingkey",
-      "published": "Mon, 19 Oct 2026 04:03:43 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 145,
-      "title": "Palo Alto Networks Products Targeted in Cyberattacks Amid AI Security Push - THE ELEC, Korea Electronics Industry Media",
-      "url": "https://www.thelec.net/news/articleView.html?idxno=14681",
-      "published": "Mon, 19 Oct 2026 04:02:00 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 146,
-      "title": "Парсим ОУД4: что Банк России на самом деле хочет от вашего кода, сборки и Secure SDLC для софтверных компаний ФинТеха",
-      "url": "https://dev.to/ivan-piskunov/parsim-oud4-chto-bank-rossii-na-samom-dielie-khochiet-ot-vashiegho-koda-sborki-i-secure-sdlc-dlia-1hha",
-      "published": "2026-10-19T03:00:00+00:00",
-      "feed": "Dev.to DevSecOps",
-      "feedUrl": "https://dev.to/feed/tag/devsecops",
-      "feedLabel": null,
-      "sourceKind": "publisher_rss"
-    },
-    {
-      "index": 147,
-      "title": "AI security tool exposes thousands of vulnerabilities, costing banks millions - SC Media",
-      "url": "https://www.scworld.com/brief/ai-security-tool-exposes-thousands-of-vulnerabilities-costing-banks-millions",
-      "published": "Mon, 19 Oct 2026 02:49:33 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 148,
-      "title": "Naver Cloud Launches Free Self-Assessment Service That Also Checks AI Security - BigGo Finance",
-      "url": "https://finance.biggo.com/news/41f98345-2d49-409d-8e0e-98396552d8f6",
-      "published": "Mon, 19 Oct 2026 02:25:00 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 149,
-      "title": "Sparrow steps up push into Japan with Sparrow MCP coding AI security solution - 디지털투데이",
-      "url": "https://www.digitaltoday.co.kr/en/view/116313/sparrow-to-step-up-push-into-japan-with-sparrow-mcp-coding-ai-security-solution",
-      "published": "Mon, 19 Oct 2026 02:14:16 GMT",
-      "feed": "ai_security",
-      "feedUrl": "https://news.google.com/rss/search?q=%22prompt+injection%22+OR+%22AI+security%22+OR+%22LLM+security%22+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "feedLabel": "AI security / LLM attacks",
-      "sourceKind": "google_news"
-    },
-    {
-      "index": 150,
-      "title": "Securing a Service's Supply Chain — and What the Scanner Actually Caught, for $0",
-      "url": "https://dev.to/pradeep_kandepaneni/securing-a-services-supply-chain-and-what-the-scanner-actually-caught-for-0-2e3e",
-      "published": "2026-10-19T00:40:09+00:00",
-      "feed": "Dev.to DevSecOps",
-      "feedUrl": "https://dev.to/feed/tag/devsecops",
       "feedLabel": null,
       "sourceKind": "publisher_rss"
     }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <lastBuildDate>Wed, 21 Oct 2026 12:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:21:41 GMT</lastBuildDate>
     <title>THE DAILY BREACH: Cybersecurity in 24 Hours</title>
     <link>https://open.spotify.com/show/0346v9eYLJNuwGjVcpP0Yp</link>
     <description>AI-generated daily cybersecurity news and analysis covering the last 24 hours.</description>
@@ -10909,6 +10909,100 @@ Sources:
 18. BBVA explores new approaches to AI agent security with NVIDIA - BBVA
    https://www.bbva.com/en/innovation/bbva-explores-new-approaches-to-ai-agent-security-with-nvidia
 . and 144 more sources (full list in GitHub sources/latest.json).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+      <item>
+      <title>CyberSecurity News - 22-10-2026 (183 sources)</title>
+      <description>CyberSecurity News covering 183 sources from the last 24 hours.
+Publisher RSS: 65 / Google News: 123.
+Window: 2026-10-21T00:00:13.877032+00:00 to 2026-10-22T00:00:13.877032+00:00.
+Sources:
+1. Governance Attack Surface Review: Spark Liquidity Layer
+   https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-spark-liquidity-layer-1ld
+2. Code Smell 322 - Request Data in Long-Lived Variables (PHP Vulnerability)
+   https://dev.to/mcsee/code-smell-322-request-data-in-long-lived-variables-php-vulnerability-247f
+3. Urgent Patch Alert: PHP2Shell, GitLab RCE, and Node.js Brotli RCE
+   https://dev.to/anoymask/patch-alert-critical-gitlab-and-php-flaws-plus-nodejs-security-updates-43k9
+4. LiteLLM got backdoored again. Check if it took your keys in 5 min
+   https://dev.to/mattbusel/litellm-got-backdoored-again-check-if-it-took-your-keys-in-5-min-ghj
+5. How to Audit and Migrate Codebases to NIST Post-Quantum Cryptography with AI Agents: A QuantumSentry MCP Server
+   https://dev.to/johann_schiffer/how-to-audit-and-migrate-codebases-to-nist-post-quantum-cryptography-with-ai-agents-a-5bc2
+6. Campus Online Services Face Temporary Restrictions As UA Addresses Technology Vulnerability - Tuscaloosa Thread
+   https://tuscaloosathread.com/university-alabama-cybersecurity-alert-explained
+7. South Carolina State boosts security for homecoming after last year's deadly shooting - WLTX
+   https://www.wltx.com/article/news/local/south-carolina-state-security-homecoming-2026/101-bbe086ae-82fb-48ce-9d63-16b6bb756f10
+8. Oh Behave! The 2026 Cybersecurity Attitudes And Behaviors Report - National Cybersecurity Alliance
+   https://www.staysafeonline.org/articles/oh-behave-the-annual-cybersecurity-attitudes-and-behaviors-report-2026
+9. Mentary AI: The Package That Arrives Without the Cloud Account — What $299.99 Actually Buys You
+   https://dev.to/reggiebro/mentary-ai-the-package-that-arrives-without-the-cloud-account-what-29999-actually-buys-you-3b0a
+10. 5 smart contract bugs i still see in 2026 (and how to catch them)
+   https://dev.to/0xhxxe/5-smart-contract-bugs-i-still-see-in-2026-and-how-to-catch-them-2an6
+11. Saylor Took the Classroom Offline for PHP2Shell
+   https://dev.to/flisk/saylor-took-the-classroom-offline-for-php2shell-5g84
+12. DigiD Went Dark on Purpose. Logius took DigiD, MijnOverheid, and Overheid.nl offline on 21 October. It was a precaution, not a confirmed intrusion.
+   https://dev.to/flisk/digid-went-dark-on-purpose-logius-took-digid-mijnoverheid-and-overheidnl-offline-on-21-october-7da
+13. Cygames Scheduled the Outage for the Patch, Then Moved It Earlier
+   https://dev.to/flisk/cygames-scheduled-the-outage-for-the-patch-then-moved-it-earlier-298h
+14. Final Fantasy XIV Closed the Door, Not the World
+   https://dev.to/flisk/final-fantasy-xiv-closed-the-door-not-the-world-18g
+15. Wikipedia Stayed Up. Toolforge Did Not.
+   https://dev.to/flisk/wikipedia-stayed-up-toolforge-did-not-5h8o
+16. Leaked API Keys in LLMs: How AI Agents Expose Secrets
+   https://dev.to/gitguardian/leaked-api-keys-in-llms-how-ai-agents-expose-secrets-1781
+17. The case for an international reporting mechanism on AI security incidents as threats increase - Caixin Global
+   https://www.caixinglobal.com/2026-10-21/the-case-for-an-international-reporting-mechanism-on-ai-security-incidents-as-threats-increase-102495762.html
+18. Massive security flaw detected in web programming language forces many websites offline - 11Alive.com
+   https://www.11alive.com/article/news/nation-world/php-security-flaw-programming-websites-offline/507-c6009db9-a7bb-4ee9-a18f-993551a95e3c
+19. PHP2Shell: PHP Patches Two Critical RCE Vulnerabilities, Urges Immediate Updates - Qualys
+   https://blog.qualys.com/vulnerabilities-threat-research/2026/10/20/php-announces-critical-security-release-for-two-vulnerabilities
+. and 164 more sources (full list in GitHub sources/latest.json).</description>
+      <pubDate>Thu, 22 Oct 2026 00:21:41 GMT</pubDate>
+      <link>https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-22T00-00-00.m4a</link>
+      <enclosure url="https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-22T00-00-00.m4a" length="125829120" type="audio/mp4" />
+      <guid isPermaLink="false">briefing-2026-10-22T00-00-00.m4a</guid>
+      <itunes:summary>CyberSecurity News covering 183 sources from the last 24 hours.
+Publisher RSS: 65 / Google News: 123.
+Window: 2026-10-21T00:00:13.877032+00:00 to 2026-10-22T00:00:13.877032+00:00.
+Sources:
+1. Governance Attack Surface Review: Spark Liquidity Layer
+   https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-spark-liquidity-layer-1ld
+2. Code Smell 322 - Request Data in Long-Lived Variables (PHP Vulnerability)
+   https://dev.to/mcsee/code-smell-322-request-data-in-long-lived-variables-php-vulnerability-247f
+3. Urgent Patch Alert: PHP2Shell, GitLab RCE, and Node.js Brotli RCE
+   https://dev.to/anoymask/patch-alert-critical-gitlab-and-php-flaws-plus-nodejs-security-updates-43k9
+4. LiteLLM got backdoored again. Check if it took your keys in 5 min
+   https://dev.to/mattbusel/litellm-got-backdoored-again-check-if-it-took-your-keys-in-5-min-ghj
+5. How to Audit and Migrate Codebases to NIST Post-Quantum Cryptography with AI Agents: A QuantumSentry MCP Server
+   https://dev.to/johann_schiffer/how-to-audit-and-migrate-codebases-to-nist-post-quantum-cryptography-with-ai-agents-a-5bc2
+6. Campus Online Services Face Temporary Restrictions As UA Addresses Technology Vulnerability - Tuscaloosa Thread
+   https://tuscaloosathread.com/university-alabama-cybersecurity-alert-explained
+7. South Carolina State boosts security for homecoming after last year's deadly shooting - WLTX
+   https://www.wltx.com/article/news/local/south-carolina-state-security-homecoming-2026/101-bbe086ae-82fb-48ce-9d63-16b6bb756f10
+8. Oh Behave! The 2026 Cybersecurity Attitudes And Behaviors Report - National Cybersecurity Alliance
+   https://www.staysafeonline.org/articles/oh-behave-the-annual-cybersecurity-attitudes-and-behaviors-report-2026
+9. Mentary AI: The Package That Arrives Without the Cloud Account — What $299.99 Actually Buys You
+   https://dev.to/reggiebro/mentary-ai-the-package-that-arrives-without-the-cloud-account-what-29999-actually-buys-you-3b0a
+10. 5 smart contract bugs i still see in 2026 (and how to catch them)
+   https://dev.to/0xhxxe/5-smart-contract-bugs-i-still-see-in-2026-and-how-to-catch-them-2an6
+11. Saylor Took the Classroom Offline for PHP2Shell
+   https://dev.to/flisk/saylor-took-the-classroom-offline-for-php2shell-5g84
+12. DigiD Went Dark on Purpose. Logius took DigiD, MijnOverheid, and Overheid.nl offline on 21 October. It was a precaution, not a confirmed intrusion.
+   https://dev.to/flisk/digid-went-dark-on-purpose-logius-took-digid-mijnoverheid-and-overheidnl-offline-on-21-october-7da
+13. Cygames Scheduled the Outage for the Patch, Then Moved It Earlier
+   https://dev.to/flisk/cygames-scheduled-the-outage-for-the-patch-then-moved-it-earlier-298h
+14. Final Fantasy XIV Closed the Door, Not the World
+   https://dev.to/flisk/final-fantasy-xiv-closed-the-door-not-the-world-18g
+15. Wikipedia Stayed Up. Toolforge Did Not.
+   https://dev.to/flisk/wikipedia-stayed-up-toolforge-did-not-5h8o
+16. Leaked API Keys in LLMs: How AI Agents Expose Secrets
+   https://dev.to/gitguardian/leaked-api-keys-in-llms-how-ai-agents-expose-secrets-1781
+17. The case for an international reporting mechanism on AI security incidents as threats increase - Caixin Global
+   https://www.caixinglobal.com/2026-10-21/the-case-for-an-international-reporting-mechanism-on-ai-security-incidents-as-threats-increase-102495762.html
+18. Massive security flaw detected in web programming language forces many websites offline - 11Alive.com
+   https://www.11alive.com/article/news/nation-world/php-security-flaw-programming-websites-offline/507-c6009db9-a7bb-4ee9-a18f-993551a95e3c
+19. PHP2Shell: PHP Patches Two Critical RCE Vulnerabilities, Urges Immediate Updates - Qualys
+   https://blog.qualys.com/vulnerabilities-threat-research/2026/10/20/php-announces-critical-security-release-for-two-vulnerabilities
+. and 164 more sources (full list in GitHub sources/latest.json).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

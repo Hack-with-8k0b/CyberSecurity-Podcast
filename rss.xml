@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <lastBuildDate>Mon, 26 Oct 2026 12:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:19:45 GMT</lastBuildDate>
     <title>THE DAILY BREACH: Cybersecurity in 24 Hours</title>
     <link>https://open.spotify.com/show/0346v9eYLJNuwGjVcpP0Yp</link>
     <description>AI-generated daily cybersecurity news and analysis covering the last 24 hours.</description>
@@ -11845,6 +11845,100 @@ Sources:
 19. Remove Malware from Website on cPanel: Safe Fix
    https://dev.to/faizan050/remove-malware-from-website-on-cpanel-safe-fix-19e6
 . and 104 more sources (full list in GitHub sources/latest.json).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+      <item>
+      <title>CyberSecurity News - 27-10-2026 (145 sources)</title>
+      <description>CyberSecurity News covering 145 sources from the last 24 hours.
+Publisher RSS: 43 / Google News: 102.
+Window: 2026-10-26T00:00:02.873406+00:00 to 2026-10-27T00:00:02.873406+00:00.
+Sources:
+1. President Trump’s Corpus Christi visit: What to know about security preparations and road closures - kiiitv.com
+   https://www.kiiitv.com/article/news/local/president-trumps-corpus-christi-visit-what-to-know-about-security-preparations-and-road-closures/503-d8840ee2-7f57-475d-8ca9-c86f6109b8b7
+2. Cross-Chain Bridge Risk Assessment: USDT0
+   https://dev.to/dannydoes_2abdf9c/cross-chain-bridge-risk-assessment-usdt0-1374
+3. Yells at Cloud, Episode 4: The Vulnpocalypse
+   https://dev.to/gunnargrosch/yells-at-cloud-episode-4-the-vulnpocalypse-5hbo
+4. Nebraska Secretary of State candidates split on election security, with one week until Election Day - WOWT
+   https://www.wowt.com/2026/10/26/nebraska-secretary-state-candidates-split-election-security-with-one-week-until-election-day
+5. PHP2Shell (CVE-2026-109618): How to Check if Your PHP Server Is Vulnerable and Patch It
+   https://dev.to/arelvox/php2shell-cve-2026-109618-how-to-check-if-your-php-server-is-vulnerable-and-patch-it-22b8
+6. An eight-byte buffer and a permanent error: engineering lessons from CVE-2026-111497
+   https://dev.to/ioneyrezende/an-eight-byte-buffer-and-a-permanent-error-engineering-lessons-from-cve-2026-111497-46j
+7. City of Hoover reforms cybersecurity, internal controls - The Business Journals
+   https://www.bizjournals.com/birmingham/news/2026/10/26/city-of-hoover-reforms-cybersecurity-financials.html
+8. Select Object Storage API for Secure Browser Direct Uploads
+   https://dev.to/lunarbreeze4173085/select-object-storage-api-for-secure-browser-direct-uploads-2gdb
+9. Global cybersecurity alert issued over PHP vulnerability - KMVT
+   https://www.kmvt.com/video/2026/10/26/global-cybersecurity-alert-issued-over-php-vulnerability
+10. Wausau City Clerk feeling confident about election security, machines - WSAW
+   https://www.wsaw.com/2026/10/26/wausau-city-clerk-feeling-confident-about-election-security-machines
+11. Apple Patches for October 2026, (Mon, Oct 26th)
+   https://isc.sans.edu/diary/rss/33458
+12. Cohere caught Qwen3.8 trying to upload a probe file to Beijing. I ran the numbers in its report.
+   https://dev.to/frankchu/cohere-caught-qwen38-trying-to-upload-a-probe-file-to-beijing-i-ran-the-numbers-in-its-report-c0
+13. Cloudflare's GLM-5.3 leaked other users' prompts through its KV cache. I rebuilt the bug in 30 lines.
+   https://dev.to/frankchu/cloudflares-glm-53-leaked-other-users-prompts-through-its-kv-cache-i-rebuilt-the-bug-in-30-2j3g
+14. White House, South Carolina launch cybersecurity program for rural hospitals - WLTX
+   https://www.wltx.com/article/news/health/newberry-health-cybersecurity-lifeline-250/101-8251cbf3-3e7a-4ac3-beb5-224d0a512fd5
+15. OAuth Test Email Needs an Evidence Boundary
+   https://dev.to/sophiax99/oauth-test-email-needs-an-evidence-boundary-pn4
+16. Exposed Node.js services and CVE-2026-111497: reading a five-million-asset signal carefully
+   https://dev.to/stark_zhuang_df5076f35c68/exposed-nodejs-services-and-cve-2026-111497-reading-a-five-million-asset-signal-carefully-2j46
+17. What new spending did FWISD managers OK in October? Copiers, insurance and security - Fort Worth Report
+   https://fortworthreport.org/2026/10/26/what-new-spending-did-fwisd-managers-ok-in-october-copiers-insurance-and-security
+18. Fortinet Expands AI Security with FortiGuard Inline AI Security Service - The Fast Mode
+   https://www.thefastmode.com/technology-solutions/51193-fortinet-expands-ai-security-with-fortiguard-inline-ai-security-service
+19. Initia Exploit: A MoveVM Cache Bug Emptied Its Bridges
+   https://dev.to/pandasecurity/initia-exploit-a-movevm-cache-bug-emptied-its-bridges-2ij1
+. and 126 more sources (full list in GitHub sources/latest.json).</description>
+      <pubDate>Tue, 27 Oct 2026 00:19:45 GMT</pubDate>
+      <link>https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-27T00-00-00.m4a</link>
+      <enclosure url="https://hwb-n8n.duckdns.org/podcasts/briefing-2026-10-27T00-00-00.m4a" length="123731968" type="audio/mp4" />
+      <guid isPermaLink="false">briefing-2026-10-27T00-00-00.m4a</guid>
+      <itunes:summary>CyberSecurity News covering 145 sources from the last 24 hours.
+Publisher RSS: 43 / Google News: 102.
+Window: 2026-10-26T00:00:02.873406+00:00 to 2026-10-27T00:00:02.873406+00:00.
+Sources:
+1. President Trump’s Corpus Christi visit: What to know about security preparations and road closures - kiiitv.com
+   https://www.kiiitv.com/article/news/local/president-trumps-corpus-christi-visit-what-to-know-about-security-preparations-and-road-closures/503-d8840ee2-7f57-475d-8ca9-c86f6109b8b7
+2. Cross-Chain Bridge Risk Assessment: USDT0
+   https://dev.to/dannydoes_2abdf9c/cross-chain-bridge-risk-assessment-usdt0-1374
+3. Yells at Cloud, Episode 4: The Vulnpocalypse
+   https://dev.to/gunnargrosch/yells-at-cloud-episode-4-the-vulnpocalypse-5hbo
+4. Nebraska Secretary of State candidates split on election security, with one week until Election Day - WOWT
+   https://www.wowt.com/2026/10/26/nebraska-secretary-state-candidates-split-election-security-with-one-week-until-election-day
+5. PHP2Shell (CVE-2026-109618): How to Check if Your PHP Server Is Vulnerable and Patch It
+   https://dev.to/arelvox/php2shell-cve-2026-109618-how-to-check-if-your-php-server-is-vulnerable-and-patch-it-22b8
+6. An eight-byte buffer and a permanent error: engineering lessons from CVE-2026-111497
+   https://dev.to/ioneyrezende/an-eight-byte-buffer-and-a-permanent-error-engineering-lessons-from-cve-2026-111497-46j
+7. City of Hoover reforms cybersecurity, internal controls - The Business Journals
+   https://www.bizjournals.com/birmingham/news/2026/10/26/city-of-hoover-reforms-cybersecurity-financials.html
+8. Select Object Storage API for Secure Browser Direct Uploads
+   https://dev.to/lunarbreeze4173085/select-object-storage-api-for-secure-browser-direct-uploads-2gdb
+9. Global cybersecurity alert issued over PHP vulnerability - KMVT
+   https://www.kmvt.com/video/2026/10/26/global-cybersecurity-alert-issued-over-php-vulnerability
+10. Wausau City Clerk feeling confident about election security, machines - WSAW
+   https://www.wsaw.com/2026/10/26/wausau-city-clerk-feeling-confident-about-election-security-machines
+11. Apple Patches for October 2026, (Mon, Oct 26th)
+   https://isc.sans.edu/diary/rss/33458
+12. Cohere caught Qwen3.8 trying to upload a probe file to Beijing. I ran the numbers in its report.
+   https://dev.to/frankchu/cohere-caught-qwen38-trying-to-upload-a-probe-file-to-beijing-i-ran-the-numbers-in-its-report-c0
+13. Cloudflare's GLM-5.3 leaked other users' prompts through its KV cache. I rebuilt the bug in 30 lines.
+   https://dev.to/frankchu/cloudflares-glm-53-leaked-other-users-prompts-through-its-kv-cache-i-rebuilt-the-bug-in-30-2j3g
+14. White House, South Carolina launch cybersecurity program for rural hospitals - WLTX
+   https://www.wltx.com/article/news/health/newberry-health-cybersecurity-lifeline-250/101-8251cbf3-3e7a-4ac3-beb5-224d0a512fd5
+15. OAuth Test Email Needs an Evidence Boundary
+   https://dev.to/sophiax99/oauth-test-email-needs-an-evidence-boundary-pn4
+16. Exposed Node.js services and CVE-2026-111497: reading a five-million-asset signal carefully
+   https://dev.to/stark_zhuang_df5076f35c68/exposed-nodejs-services-and-cve-2026-111497-reading-a-five-million-asset-signal-carefully-2j46
+17. What new spending did FWISD managers OK in October? Copiers, insurance and security - Fort Worth Report
+   https://fortworthreport.org/2026/10/26/what-new-spending-did-fwisd-managers-ok-in-october-copiers-insurance-and-security
+18. Fortinet Expands AI Security with FortiGuard Inline AI Security Service - The Fast Mode
+   https://www.thefastmode.com/technology-solutions/51193-fortinet-expands-ai-security-with-fortiguard-inline-ai-security-service
+19. Initia Exploit: A MoveVM Cache Bug Emptied Its Bridges
+   https://dev.to/pandasecurity/initia-exploit-a-movevm-cache-bug-emptied-its-bridges-2ij1
+. and 126 more sources (full list in GitHub sources/latest.json).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
